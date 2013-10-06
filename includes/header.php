@@ -2,7 +2,9 @@
 <html lang='en'>
     <head>
         <link href='css/bootstrap.css' rel='stylesheet' type='text/css' />
+        <link href='css/flexslider.css' rel='stylesheet' type='text/css' />
         <script src="js/jquery-1.10.2.min.js"></script>
+        <script src="js/jquery.flexslider-min.js"></script>
         <script src="js/bootstrap.js"></script>
         <script src="js/main.js"></script>
 

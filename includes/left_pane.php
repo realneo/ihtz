@@ -1,4 +1,4 @@
-<div class="span3 left_pane">
+<div class="span2 left_pane">
     <br />
     <br />
     <img src="img/ih_logo.gif" alt="Islamic Help Tanzania" />
