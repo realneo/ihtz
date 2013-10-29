@@ -3959,7 +3959,7 @@ input[type="submit"].btn.btn-mini {
 .nav > li > a:hover,
 .nav > li > a:focus {
   text-decoration: none;
-  background-color: #80A029;
+  background-color: #B3121A;
   color:#fff;
   font-weight:lighter;
 }
@@ -4009,7 +4009,7 @@ input[type="submit"].btn.btn-mini {
 .nav-list > .active > a:focus {
   color: #ffffff;
   text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2);
-  background-color: #80A029;
+  background-color: #B3121A;
 }
 
 .nav-list [class^="icon-"],
@@ -6171,7 +6171,7 @@ a.badge:focus {
 
 /* Retouches */
 .left_pane a{
-    font-size: 11px;
+    font-size: 12px;
 }
 .left_pane a:hover{
     cursor: pointer;
@@ -6184,7 +6184,7 @@ a.badge:focus {
     position: absolute;
     z-index: -3;
 }
-#black_grass{
+.black_grass{
     background: url('../img/black_grass.gif') repeat-x;
     position:absolute;
     width:100%;
@@ -6220,4 +6220,102 @@ a.badge:focus {
     color:#fff;
     font-weight: bold;
     font-size:15px;
+}
+#sliders{
+    margin-top:30px;
+}
+.black_grass_footer{
+    background: url('../img/black_grass.gif') repeat-x;
+    z-index: -2;
+}
+#footer{
+    background-color: #000;
+}
+#footer th{
+    text-align: left;
+    color:#fff;
+    font-weight: lighter;
+    font-size:12px;
+}
+#footer td{
+    text-align: left;
+    color:#8DA5C1;
+    font-weight: lighter;
+    font-weight:12px;
+}
+h1{
+    color:#B3121A;
+    font-weight: lighter;
+    font-family: hands-of-sean;
+}
+h2{
+    color:#B3121A;
+    font-weight:lighter;
+    font-size:20px;
+    line-height: 70%;
+    font-family: hands-of-sean;
+}
+h3{
+    font-size:15px;
+    line-height:100%;
+    color:#B3121A;
+}
+
+@font-face{
+    font-family: "hands-of-sean";
+    src: url('../fonts/hand-of-sean.ttf'),
+    url('../fonts/hand-of-sean.ttf'); /* IE */
+    font-weight: bold;
+}
+.left_red_block{
+    position:relative;
+    width:220px;
+}
+.mid_red_block{
+    position:relative;
+    width:230px;
+}
+.red_block{
+    font-family: "hands-of-sean";
+    color:#fff;
+    background-color:#B3121A;
+    text-align: center;
+    padding:5px 0px;
+}
+.red_grass{
+    background: url('../img/red_grass.gif') repeat-x;
+    width:100%;
+    position:absolute;
+    top:8px;
+}
+
+/* Donate Button */
+#donate_btn{
+    position:absolute;
+    top:90px;
+    left:1000px;
+}
+#donate_bg{
+    background-color:#390401;
+    width:200px;
+    height:10px;
+    border-radius: 7px 7px 0px 0px;
+    box-shadow: 1px 1px 5px;
+    z-index: -30px;
+}
+#donate_fg{
+    background-color:#363838;
+    width:180px;
+    height:50px;
+    box-shadow: 1px 1px 5px;
+    position:absolute;
+    top:0px;
+    left:10px;
+}
+#donate_fg p{
+    font-weight: bold;
+    color:#fff;
+    font-size: 20px;
+    padding:15px 20px;
+    cursor: pointer;
 }
