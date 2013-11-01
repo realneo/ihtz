@@ -1,7 +1,10 @@
 </div><!-- row -->
 
 </div><!-- container -->
-
+<br />
+<br />
+<br />
+<br />
 <div id='footer'>
     <div class='black_grass_footer'></div>
     <div class='container'>
