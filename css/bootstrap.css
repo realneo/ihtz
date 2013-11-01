@@ -6269,7 +6269,7 @@ h3{
 }
 .left_red_block{
     position:relative;
-    width:220px;
+    width:140px;
 }
 .mid_red_block{
     position:relative;
@@ -6281,6 +6281,7 @@ h3{
     background-color:#B3121A;
     text-align: center;
     padding:5px 0px;
+    font-size:10px;
 }
 .red_grass{
     background: url('../img/red_grass.gif') repeat-x;
@@ -6319,3 +6320,21 @@ h3{
     padding:15px 20px;
     cursor: pointer;
 }
+#donate_fg p a{
+    color:#fff;
+}
+#tanzania{
+    position:absolute;
+    z-index:3;
+    top:15px;
+}
+#tanzania h3{
+    font-size:25px
+}
+#number{
+    position:absolute;
+    z-index:3;
+    top:30px;
+}
+
+p{font-size: 12px;}
