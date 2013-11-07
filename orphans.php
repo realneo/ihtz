@@ -9,6 +9,7 @@
     <?php include('includes/menu.php'); ?>
     <div class='row'>
         <div class='span9' id='infomation'>
+            <br />
             <h1>Orphan Care</h1>
             <p>Tanzania is currently one of the most severely stricken countries with an orphan population of 1.3 million children which continues to grow at an alarming pace. To go through childhood without the protection and care of a parent or guardian is one of the most unimaginably difficult things. Orphan children are often left with no option but to fend for them-selves or be dependent on the generosity of sponsors near and far. Many, however, are left vulnerable to exploitation.</p>
             <h3>Orphan Care</h3>

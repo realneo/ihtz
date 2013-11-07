@@ -9,6 +9,7 @@
     <?php include('includes/menu.php'); ?>
     <div class='row'>
         <div class='span9' id='infomation'>
+            <br />
             <h1>Water Projects</h1>
             <p>Access to safe drinking water and improved sanitation is necessary for health, income generation, poverty alleviation, gender equality, human rights and personal dignity. Yet in Tanzania, almost one out of every two people has no access to safe water supply. Due to vast geographic dispersion, rural Tanzanians often spend their valuable time to travel long distances to fetch water. </p>
             <p>Islamic Help has been working in Tanzania since 2009 and our efforts are bringing improvements in the wellbeing of families by providing water solutions in the form of water pumps, wells, rain (roof) harvesting, water conservation and hygiene education. Implementation of our initiatives will contribute towards the eradication of poverty and contribute towards meeting target 10 of the Millennium Development Goal (MDGs) – Halving the proportion of people without access to safe drinking water and basic sanitation by 2015.</p> 

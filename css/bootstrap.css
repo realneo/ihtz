@@ -6207,20 +6207,56 @@ a.badge:focus {
     top:31px;
 }
 #menu{
-    margin-top:110px;
+  position:absolute;
+  top:110px;
 }
 #menu ul{
     list-style: none;
 }
 #menu li{
     float:left;
-    padding-right:30px;
+    padding-right:20px;
 }
 #menu a{
     color:#fff;
-    font-weight: bold;
-    font-size:15px;
+    font-weight: normal;
+    font-size:13px;
 }
+
+
+/*Initialize*/
+ul#menu, ul#menu ul.sub-menu {
+    padding:0;
+    margin: 0;
+}
+ul#menu li, ul#menu ul.sub-menu li {
+    list-style-type: none;
+    display: inline-block;
+}
+/*Link Appearance*/
+ul#menu li a, ul#menu li ul.sub-menu li a {
+    text-decoration: none;
+    color: #fff;
+    background: #B3121A;
+    padding: 5px;
+    display:inline-block;
+}
+/*Make the parent of sub-menu relative*/
+ul#menu li {
+    position: relative;
+}
+/*sub menu*/
+ul#menu li ul.sub-menu {
+    display:none;
+    position: absolute;
+    top: 30px;
+    left: 0;
+    width: 200px;
+}
+ul#menu li:hover ul.sub-menu {
+    display:block;
+}
+
 #sliders{
     margin-top:30px;
 }
@@ -6341,3 +6377,126 @@ p{font-size: 12px;}
 .green_color{color:green}
 .italic{font-style:italic}
 .bold{font-weight: bold}
+/**************** TWITTER TICKER **************************/
+h2.tut{
+    /* This is the "MY TWEETS" title */
+    color:white;
+    font-family:"Myriad Pro", Arial, Helvetica, sans-serif;
+    font-size:10px;
+    padding:12px 0 0 58px;
+    text-transform:uppercase;
+    letter-spacing: .5px;
+    font-weight: normal;
+    cursor: pointer;
+
+
+    /* The CSS3 text-shadow property */
+    text-shadow:2px 1px 6px #333;
+}
+
+#twitter-ticker{
+    /* Styling the ticker */
+    width:250px;
+    height:400px;
+    background:url(../images/slickbg.png) no-repeat #f5f5f5;
+    color:#666666;
+    display:none;
+    float:right;
+    margin-top:20px;
+
+    /* Rounded corners */
+    -moz-border-radius:10px 10px 6px 6px;
+    -khtml-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius:6px;
+
+    text-align:left;
+}
+
+#tweet-container{
+    /* This is where the tweets are inserted */
+    height:300px;
+    width:auto;
+    overflow:scroll;
+}
+
+#twitIcon{
+    /* Positioning the icon holder absolutely and moving it to the upper-left */
+    position:absolute;
+    top:-25px;
+    left:-10px;
+    width:64px;
+    height:64px;
+}
+
+#top-bar{
+    height:45px;
+    background:url(../images/top_bar.png) repeat-x;
+    border-bottom:1px solid white;
+    position:relative;
+    margin-bottom:8px;
+
+    /* Rounding the top part of the ticker, works only in Firefox unfortunately */
+    -moz-border-radius:6px 6px 0 0;
+}
+
+.tweet{
+    /* Affects the tweets */
+    padding:5px;
+    margin:0 8px 8px;
+
+    border:1px solid #F0F0F0;
+    background:url(../images/transparent.png);
+
+    width:auto;
+    overflow:hidden;
+}
+
+.tweet .avatar,
+.tweet .user,
+.tweet .time{
+    float:left;
+}
+
+.tweet .time{
+    text-transform:uppercase;
+    font-size:9px;
+    color:#AAAAAA;
+    white-space:nowrap;
+}
+
+.tweet .avatar img{
+    width:36px;
+    height:36px;
+    border:2px solid #eeeeee;
+    margin:0 5px 5px 0;
+}
+
+.tweet .txt{
+    /* Using the text container to clear the floats */
+    clear:both;
+}
+
+.tweet .user{
+    font-weight:bold;
+}
+
+a, a:visited {
+    /* Styling the links */
+    color:#D2232A;
+    text-decoration:none;
+    outline:none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+#loading{
+    /* The loading gif animation */
+    margin:100px 95px;
+}
+#infomation img{
+    border:2px solid #fff;
+    border-radius: 10px;
+}

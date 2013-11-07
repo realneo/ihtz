@@ -3,9 +3,11 @@
     <meta charset="UTF-8">
     <head>
         <link href='css/bootstrap.css' rel='stylesheet' type='text/css' />
-        <link href='css/flexslider.css' rel='stylesheet' type='text/css' />
+        <link href='css/flexslider/flexslider.css' rel='stylesheet' type='text/css' />
         <script src="js/jquery-1.10.2.min.js"></script>
-        <script src="js/jquery.flexslider-min.js"></script>
+        <script type='text/javascript' src='js/jquery.flexslider-min.js'></script>
+        <script type='text/javascript' src='js/tweet_script.js'></script>
+        
         <script src="js/bootstrap.js"></script>
         <script src="js/main.js"></script>
 
@@ -19,4 +21,4 @@
         
         
         <div class='container'>
-            <div class="row">
+            

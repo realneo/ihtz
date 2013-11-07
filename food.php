@@ -9,6 +9,7 @@
     <?php include('includes/menu.php'); ?>
     <div class='row'>
         <div class='span9' id='infomation'>
+            <br />
             <h1>Food Security</h1>
         </div>
     </div>
