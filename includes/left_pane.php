@@ -30,7 +30,8 @@
     <a href='qurbani.php'>Qurbani</a>
     <br />
     <a href='food.php'>Food Security</a>
-    
+    <br />
+    <a href='water.php'>Tone La Huruma</a>
     
     <div class='left_red_block'>
         <div class='red_grass'>&nbsp;</div>
@@ -53,9 +54,9 @@
         <br />
         <div class='red_block'>iHelp Empower People</div>
     </div>
-    <a href='economic.php'>Empower Life</a>
+    <a href='economic.php'>Economic Empowerment</a>
     <br />
-    <a href='saccos.php'>SACCOS</a>
+    <a href='#tab2' data-toggle="tab">SACCOS</a>
     <br />
     <a href='cordoba.php'>Cordoba School</a>
     <br />

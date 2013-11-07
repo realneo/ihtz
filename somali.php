@@ -9,7 +9,7 @@
     <?php include('includes/menu.php'); ?>
     <div class='row'>
         <div class='span9' id='infomation'>
-            <h1>Saccos</h1>
+            <h1>Ramadhan</h1>
         </div>
     </div>
 </div>
