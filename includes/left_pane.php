@@ -17,7 +17,7 @@
     <br />
     <a href='mission.php'>Mission Possible</a>
     <br />
-    <a href='mission.php'>Small Hands</a>
+    <a href='smallhands.php'>Small Hands</a>
     
     
     <div class='left_red_block'>
