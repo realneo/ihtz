@@ -6,11 +6,36 @@
                 <li><a href="about.php">About Us</a></li>
                 <li><a href="#">Projects</a>
                     <ul>
-                        <li><a href="water.php">Water Project</a></li>
-                        <li><a href="smallhands.php">Small Hands</a></li>
-                        <li><a href="water.php">Tone La Huruma</a></li>
-                        <li><a href="tfc.php">Trees For Change</a></li>
-                        <li><a href="eco_village.php">Eco Village</a></li>
+                        <li><a href="water.php">Water Project</a>
+                            <ul>
+                                <li><a href="water.php">Tone La Huruma</a></li>
+                            </ul>
+                        </li>
+                        
+                        <li><a href="orphans.php">Orphan Care</a>
+                            <ul>
+                                <li><a href="orphans.php">Home Based</a></li>
+                                <li><a href="ecovillage.php">Eco Village</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="education.php">Education</a>
+                            <ul>
+                                <li><a href="smallhands.php">Small Handds</a></li>
+                                <li><a href="education.php">Seminars</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="environment.php">Environmental Sustainability</a>
+                            <ul>
+                             <li><a href="tfc.php">Trees For Change</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="economic.php">Economic Empowerment</a>
+                            <ul>
+                                <li><a href="economic.php">Wezesha Maisha</a></li>
+                                <li><a href="economic.php">Saccos</a></li>
+                                <li><a href="economic.php">TREND</a></li>
+                            </ul>
+                        </li>
                     </ul>
                  </li>
                  <li><a href="events.php">Events</a>
