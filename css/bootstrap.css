@@ -6169,9 +6169,11 @@ a.badge:focus {
 
 
 /* Retouches */
-.left_pane a{
-    font-size: 12px;
+
+*{
+    font-size:12px;
 }
+
 .left_pane a:hover{
     cursor: pointer;
 }
@@ -6205,23 +6207,6 @@ a.badge:focus {
     z-index:-3;
     top:31px;
 }
-#menu{
-  position:absolute;
-  top:110px;
-}
-#menu ul{
-    list-style: none;
-}
-#menu li{
-    float:left;
-    padding-right:20px;
-}
-#menu a{
-    color:#fff;
-    font-weight: normal;
-    font-size:13px;
-}
-
 
 /*Initialize*/
 ul#menu, ul#menu ul.sub-menu {
@@ -6264,19 +6249,27 @@ ul#menu li:hover ul.sub-menu {
     z-index: -2;
 }
 #footer{
+    padding-top: 30px;
+    padding-bottom: 30px;
     background-color: #000;
+    font-size:11px;
 }
 #footer th{
     text-align: left;
     color:#fff;
-    font-weight: lighter;
-    font-size:12px;
+    font-weight: normal;
 }
-#footer td{
+#footer td a{
     text-align: left;
     color:#8DA5C1;
-    font-weight: lighter;
-    font-weight:12px;
+    font-weight: normal;
+}
+#footer p{
+    color:#fff;
+}
+#footer a{
+    color:#fff;
+    padding:0px 5px;
 }
 h1{
     color:#B3121A;
@@ -6348,7 +6341,8 @@ h3{
     top:0px;
     left:10px;
 }
-#donate_fg p{
+#donate_fg p a{font-size:20px;}
+#donate_fg p {
     font-weight: bold;
     color:#fff;
     font-size: 20px;
@@ -6380,11 +6374,10 @@ p{font-size: 12px;}
 h2.tut{
     /* This is the "MY TWEETS" title */
     color:white;
-    font-family:"Myriad Pro", Arial, Helvetica, sans-serif;
-    font-size:10px;
+    font-family:hands-of-sean;
+    font-size:20px;
     padding:12px 0 0 58px;
-    text-transform:uppercase;
-    letter-spacing: .5px;
+    letter-spacing: 1px;
     font-weight: normal;
     cursor: pointer;
 
@@ -6430,7 +6423,7 @@ h2.tut{
 
 #top-bar{
     height:45px;
-    background:url(../images/top_bar.png) repeat-x;
+    background-color: #B3121A;
     border-bottom:1px solid white;
     position:relative;
     margin-bottom:8px;
@@ -6490,35 +6483,79 @@ h2.tut{
 }
 
 .donate{
-    width:200px;
-    height:200px;
+    width:150px;
+    height:20px;
     overflow: hidden;
     position:relative;
     margin:5px;
+    cursor: pointer;
+    background-color: #B3121A;
+    color:#fff;
 }
 .donate_layer{
     position:absolute;
-    top:170px;
-    background-color: #B3121A;
-    left:0px;
-    width:210px;
-    height:210px;
+    width:150px;
+    top:5px;
 }
-.donate_layer h5{
+
+nav{
+    z-index: 1000;
+    margin-top:110px;
+}
+nav a{
     color:#fff;
-    padding-left:14%;
-    font-size:15px;
+    font-weight: normal;
+    text-decoration: none;
 }
-.donate_layer p{
-    padding-left:25%;
-    padding-top:50px;
-    font-size: 18px;
-    color:#fff;
+nav a:hover{
+    text-decoration: none;
+    font-weight: normal
 }
-.donate_icon{
-    border:1px solid #666;
-    width:40px;
-    border-radius: 40px;
-    padding:10px;
-    margin: 50px auto;
+nav ul {
+  text-align: left;
+  display: inline;
+  margin: 0;
+  list-style: none;
+}
+nav ul li {
+  display: inline-block;
+  margin-right: -4px;
+  position: relative;
+  padding: 0px 10px;
+  cursor: pointer;
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  transition: all 0.2s;
+}
+nav ul li:hover {
+}
+ul li ul {
+    z-index: 10000;
+  padding: 10;
+  position: absolute;
+  top: 20px;
+  left: 0;
+  width: 150px;
+  display: none;
+  opacity: 0;
+  visibility: hidden;
+  -webkit-transiton: opacity 0.2s;
+  -moz-transition: opacity 0.2s;
+  -ms-transition: opacity 0.2s;
+  -o-transition: opacity 0.2s;
+  -transition: opacity 0.2s;
+}
+nav ul li ul li { 
+  background: #B3121A; 
+  display: block; 
+  color: #fff;
+  padding:5px;
+}
+nav ul li ul li:hover { background: #B3121A; }
+nav ul li:hover ul {
+  display: block;
+  opacity: 1;
+  visibility: visible;
 }

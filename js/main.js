@@ -8,8 +8,8 @@ $(window).load(function() {
 
 $(function(){
     $('.donate_layer').hover(function() {
-        $(this).stop().animate({"top":"0px"}, 400);
+        $(this).stop().animate({"top":"-25px"}, 400);
     }, function() {
-        $(this).stop().animate({"top":"170px"}, 400);
+        $(this).stop().animate({"top":"5px"}, 400);
     });
 });

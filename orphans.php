@@ -18,19 +18,28 @@
             <p>Our orphan care program is continuously growing: Since 2010, the number of orphan children under Islamic Help’s care has grown from 100 to now 518 in different locations of Tanzania. This program has ensured continuity of the children’s education, ensured sufficient nutritional access to the children, proper health care, ensured physical, metal and social growth and also savings for the child and his/her guardian.</p> 
             <p>Our Orphan Sponsorship Scheme provides a comprehensive package of support to meet the needs of each individual child sponsored, including:</p>
             <ul>
-                <li>Shelter – whether living with relatives, friends or in an orphanage we ensure that the orphan sponsored has a roof over their head and the security and protection that they deserve</li>
-                <li>Food – we ensure that the child's nutritional needs are met.</li>
-                <li>Education – we ensure that the child has access to education, attends school or classes so as to enable them to read, write and access opportunities for future prosperity.</li>
-                <li>Healthcare – we ensure that the sponsored child has access to healthcare and medication according to their needs.</li>
-                <li>Welfare – we ensure that the environment in which the sponsored child lives is protective and nurturing and are in regular contact with their careers or guardians. Any issues affecting their general wellbeing are identified and dealt with. At all times we seek to ensure that their dignity and self-worth are honoured.</li>
+                <li><strong>Shelter</strong> – whether living with relatives, friends or in an orphanage we ensure that the orphan sponsored has a roof over their head and the security and protection that they deserve</li>
+                <li><strong>Food</strong> – we ensure that the child's nutritional needs are met.</li>
+                <li><strong>Education</strong> – we ensure that the child has access to education, attends school or classes so as to enable them to read, write and access opportunities for future prosperity.</li>
+                <li><strong>Healthcare</strong> – we ensure that the sponsored child has access to healthcare and medication according to their needs.</li>
+                <li><strong>Welfare</strong> – we ensure that the environment in which the sponsored child lives is protective and nurturing and are in regular contact with their careers or guardians. Any issues affecting their general wellbeing are identified and dealt with. At all times we seek to ensure that their dignity and self-worth are honoured.</li>
             </ul>	
             
             <p>Our Orphan Sponsorship Scheme is a life changing opportunity for vulnerable orphans. For just Tshs.2600 a day you can change a child's life forever.</p>
             <div class='well'>
-            <h3>Salhat’s Story:</h3>
-                <p>Salhat Mohammed is an 11 year old girl living in Kigamboni. Both her parents passed away HIV/Aids positive and sadly Salhat contracted the virus. After her parents passed away Salhat went to live with her aunt who does not have any source of income but depends on her son to provide for them. It is hard for Salhat to get all the medical attention she needs and the proper nutritional diet as the money her aunt receives from her son is not sufficient to support their basic needs.</p> 
-                <p>Islamic Help has been providing Salhat with food ration and medical coverage since 2012. Her condition has improved and this has made her aunt better equipped to raise her. </p>
+                <table>
+                    <tr>
+                        <td><img src="images/mariams.png" class="inline" alt="" width="200"></td>
+                        <td>
+                            <h3>Mariaym's Story</h3>
+                            
+                        <p>Mariyam is a 7 year old girl that sadly lost both of her parents before her first birthday. Mariyam now lives with her aunt who does not have any source of income and is financially unstable to provide for Mariyam. Mariyam however remains positive appreciating the little she has. Mariyam aspires to be a doctor one day to help people struggling with illnesses. Mariyam needs our support to follow her dreams and live a normal life. What will you do? </p>
+ 
+                        </td> 
+                    </tr>
+                </table>
             </div>
+            <iframe width="690" height="360" src="//www.youtube.com/embed/PZqrvMVp3k0" frameborder="0" allowfullscreen></iframe>
     </div>
 </div>
 

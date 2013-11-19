@@ -50,8 +50,8 @@
                         <p>We were already caring for about 400 orphans through the generosity of sponsors and had a working model with 25 orphans in an orphanage in Mbagala before embarking on our innovative Children’s Eco Village.</p>
                         <p>It aims to provide a homely environment designed to nurture the physical, mental, psychological and emotional growth of vulnerable children, through holistic community-based care which helps them develop into socially and environmentally aware adults.</p>
                         <img src='images/slides/ecovillage/eco_village_childrens_homes_01.jpg' alt='' width='200'/>
-                        <img src='images/slides/ecovillage/eco_village_childrens_homes_02.jpg' alt='' width='200'/>
-                        <img src='images/slides/ecovillage/eco_village_childrens_homes_03.jpg' alt='' width='200'/>
+                        <img src='images/slides/ecovillage/eco_village_childrens_homes_02.jpg' alt='' width='230'/>
+                        <img src='images/slides/ecovillage/eco_village_childrens_homes_03.jpg' alt='' width='230'/>
                         <p>Each of the 16 spacious homes will accommodate 10 children along with a professional carer. This ‘mother’ will live with the children, building a close relationship with every child entrusted to her and providing the security, love and stability each of them needs. In this environment, the youngsters will enjoy a real sense of security and belonging, growing up and learning together, sharing responsibilities and all the joys and challenges of daily life.</p>
                         <p>Each house will have three bedrooms, a kitchen, bathroom/toilets, dining area and living room. The buildings and structures are designed to be highly energy efficient and the adoption of green energy technologies, including waste management, recycling and bio-gas, will ensure a clean, green and productive environment.</p>
                         <img src='images/slides/ecovillage/eco_village_childrens_homes_04.jpg' alt='' width='200'/>
@@ -59,7 +59,7 @@
                         <img src='images/slides/ecovillage/eco_village_childrens_homes_06.jpg' alt='' width='200'/>
                         <p>For their physical development, the Eco Village will have a play area featuring an obstacle course and a multi-purpose sports ground which will also be a valuable resource for others in the area.
                         <br />
-                        <img src='images/slides/ecovillage/eco_village_childrens_homes_07.jpg' alt='' width='100'/>
+                        <img src='images/slides/ecovillage/eco_village_childrens_homes_07.jpg' alt='' width='110'/>
                         <img src='images/slides/ecovillage/eco_village_childrens_homes_08.jpg' alt='' width='250'/>
                         <img src='images/slides/ecovillage/eco_village_childrens_homes_09.jpg' alt='' width='250'/>
                     </div>

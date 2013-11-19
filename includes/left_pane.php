@@ -1,7 +1,7 @@
 <div class="span2 left_pane">
     <br />
     <br />
-    <img src="img/ih_logo.gif" alt="Islamic Help Tanzania" width='200'/>
+    <a href="index.php"><img src="img/ih_logo.gif" alt="Islamic Help Tanzania" width='200'/></a>
     <br />
     <br />
     <br />
@@ -25,11 +25,9 @@
         <br />
         <div class='red_block'>iHelp Feed Tanzania</div>
     </div>
-    <a href='reapsmiles.php'>Reap Smiles</a>
-    <br />
     <a href='qurbani.php'>Qurbani</a>
     <br />
-    <a href='food.php'>Food Security</a>
+    <a href='food.php'>Reap Smiles</a>
     <br />
     <a href='water.php'>Tone La Huruma</a>
     
@@ -54,7 +52,7 @@
         <br />
         <div class='red_block'>iHelp Empower People</div>
     </div>
-    <a href='economic.php'>Economic Empowerment</a>
+    <a href='economic.php'>Wezesha Maisha</a>
     <br />
     <a href='#tab2' data-toggle="tab">SACCOS</a>
     <br />
@@ -67,10 +65,11 @@
         <br />
         <div class='red_block'>iHelp Respond to Disasters</div>
     </div>
-    <a href='jangwani.php'>Jangwani Floods</a>
+    <a href='jangwani.php'>Jangwani Floods 2011</a>
     <br />
-    <a href='somali.php'>Somali Drought</a>
+    <a href='somali.php'>Somalia Drought 2011</a>
     
     <br />
     <br />
+    <a href="http://islamichelp.org.uk/images/IH_ProjectReport2013-WEB.pdf"><img src='images/ih_report2013.jpg' /></a>
 </div><!-- span2 (Left Pane) -->

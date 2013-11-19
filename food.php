@@ -20,43 +20,26 @@
             <p>By means of the Orphan Care sponsorship program Islamic Help along with the support of local NGO&rsquo;s in specified areas, are able to provide orphans with school necessities, monthly food rations, health care, recreational activities, integrated livelihood projects for their guardians, excursions and Umrah packages.</p>
             <p>&nbsp;</p>
             <p>The annual contribution for food rations amount to 546,000 tsh. Islamic Help provide orphans and their families with 10 kg of Rice, 5 kg of beans and 2 liters of cooking oil per month. The distribution of the food ration takes place in each specified areas where Islamic Help and the local partners involved operate; Islamic Help buy the best quality of food packs and distribute to beneficiaries.</p>
-            <p><strong><span style="text-decoration: underline;">&nbsp;</span></strong></p>
             <p>In 2012, Islamic Help distributed the following (see table below) to 100 orphan families:</p>
             <table border="1" cellspacing="0" cellpadding="0" align="left">
-            <tbody>
-            <tr>
-            <td valign="top" width="109">
-            <p><strong>Food </strong></p>
-            </td>
-            <td valign="top" width="109">
-            <p><strong>Amount</strong></p>
-            </td>
-            </tr>
-            <tr>
-            <td valign="top" width="109">
-            <p>Rice</p>
-            </td>
-            <td valign="top" width="109">
-            <p>9.780 tonnes</p>
-            </td>
-            </tr>
-            <tr>
-            <td valign="top" width="109">
-            <p>Bean</p>
-            </td>
-            <td valign="top" width="109">
-            <p>4.890 tonnes</p>
-            </td>
-            </tr>
-            <tr>
-            <td valign="top" width="109">
-            <p>Cooking Oil</p>
-            </td>
-            <td valign="top" width="109">
-            <p>1,956 litres</p>
-            </td>
-            </tr>
-            </tbody>
+                <tbody>
+                    <tr>
+                        <td valign="top" width="109"><p><strong>Food </strong></p></td>
+                        <td valign="top" width="109"><p><strong>Amount</strong></p></td>
+                    </tr>
+                        <tr><td valign="top" width="109"><p>Rice</p>
+                    </td>
+                        <td valign="top" width="109"><p>9.780 tonnes</p></td>
+                    </tr>
+                    <tr>
+                        <td valign="top" width="109"><p>Bean</p></td>
+                        <td valign="top" width="109"><p>4.890 tonnes</p></td>
+                    </tr>
+                    <tr>
+                        <td valign="top" width="109"><p>Cooking Oil</p></td>
+                        <td valign="top" width="109"><p>1,956 litres</p></td>
+                    </tr>
+                </tbody>
             </table>
             <p><strong><span style="text-decoration: underline;">&nbsp;</span></strong></p>
             <p><strong><span style="text-decoration: underline;">&nbsp;</span></strong></p>

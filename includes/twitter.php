@@ -3,11 +3,10 @@
 
     <div id="top-bar">
         <!-- This contains the title and icon -->
-
-        <div id="twitIcon"><img src="images/twitter_64.png" width="64" height="64" alt="Twitter icon" /></div>
+        
         <!-- The twitter icon -->
 
-        <h2 class="tut">Islamic Help Tanzania</h2>
+        <h2 class="tut"><img src="images/twitter_64.png"  height='30' alt="Twitter icon" />@ihelpTZ</h2>
         <!-- Title -->
 
     </div>

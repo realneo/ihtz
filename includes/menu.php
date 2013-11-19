@@ -1,27 +1,29 @@
 <div class='row'>
     <div class='span7'>
-        <ul id="menu">
-            <li><a href="index.php">Home</a></li>
-            <li><a href="about.php">About Us</a></li>
-            <li><a href="#">Projects</a>
-                <ul class="sub-menu">
-                    <li><a href="economic.php">Wezesha Maisha</a></li>
-                    <li><a href="smallhands.php">Small Hands</a></li>
-                    <li><a href="water.php">Tone La Huruma</a></li>
-                    <li><a href="tfc.php">Trees For Change</a></li>
-                    <li><a href="eco_village.php">Eco Village</a></li>
-                </ul>
-             </li>
-             <li><a href="events.php">Events</a>
-                 <ul class="sub-menu">
-                    <li><a href="events.php">Forthcoming Events</a></li>
-                    <li><a href="events.php">Past Events</a></li>
-                </ul>
-             </li>
-             <li><a href="volunteer.php">Get Involved</a></li>
-             <!--<li><a href="#">Latest</a></li>-->
-             <li><a href="contact.php">Contact Us</a></li>
-        </ul>
+        <nav>
+            <ul>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="about.php">About Us</a></li>
+                <li><a href="#">Projects</a>
+                    <ul>
+                        <li><a href="water.php">Water Project</a></li>
+                        <li><a href="smallhands.php">Small Hands</a></li>
+                        <li><a href="water.php">Tone La Huruma</a></li>
+                        <li><a href="tfc.php">Trees For Change</a></li>
+                        <li><a href="eco_village.php">Eco Village</a></li>
+                    </ul>
+                 </li>
+                 <li><a href="events.php">Events</a>
+                     <ul>
+                        <li><a href="events.php">Forthcoming Events</a></li>
+                        <li><a href="events.php">Past Events</a></li>
+                    </ul>
+                 </li>
+                 <li><a href="volunteer.php">Get Involved</a></li>
+                 <!--<li><a href="#">Latest</a></li>-->
+                 <li><a href="contact.php">Contact Us</a></li>
+            </ul>
+        </nav>
     </div>
     <div style="margin-top:140px"></div>
 </div>

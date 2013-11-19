@@ -19,8 +19,15 @@
                 </ul>
                 <div class="tab-content">
                     <div class="tab-pane active" id="tab1">
-                      <p>Volunteers form a cornerstone of Islamic Help and are fundamental to the work of the organisation. Islamic Help values its volunteers and their willingness and enthusiasm to donate the most precious of resources, namely, their time. As such we are able to provide a whole gamut of volunteering opportunities and experiences based on volunteers’ interests, desires and skills. We are committed to making the volunteering experience a truly reciprocal one and work hard to ensure that whilst benefiting from the contribution volunteers make we provide volunteers with a rewarding and beneficial experience of volunteering with us.</p>
-                        <p>Volunteering with Islamic Help takes any form that the volunteer wishes it to take – yes, we start by asking about your skills and interests and then try to provide you with the most appropriate of volunteering experiences. Of course, fundraising remains the most popular form of volunteering but there are many other ways in which our volunteers contribute. Many assist with office and administrative support duties, others steward at events that the organisation holds, and others organise events.</p>
+                    <p>Volunteers form a cornerstone of Islamic Help and are fundamental to the work of the organisation. Islamic Help values its volunteers and their willingness and enthusiasm to donate the most precious of resources, namely, their time. As such we are able to provide a whole gamut of volunteering opportunities and experiences based on volunteers’ interests, desires and skills. We are committed to making the volunteering experience a truly reciprocal one and work hard to ensure that whilst benefiting from the contribution volunteers make we provide volunteers with a rewarding and beneficial experience of volunteering with us.</p>
+                    <img src='images/slides/volunteer.png' alt='' width="695"/>
+                    <h2 align="center">Let your imagination shape your <br /><br />volunteering experience at Islamic Help</h2>
+                    <p>Volunteering with Islamic Help takes any form that the volunteer wishes it to take – yes, we start by asking about your skills and interests and then try to provide you with the most appropriate of volunteering experiences. Of course, fundraising remains the most popular form of volunteering but there are many other ways in which our volunteers contribute. Many assist with office and administrative support duties, others steward at events that the organisation holds, and others organise events.</p>
+                    <h2>Download</h2>
+                    <a href="http://islamichelp.org.uk/images/ih_volunteer_registration_form.pdf">Islamic Help Volunteer Registration Form (pdf format)</a>
+                    <p>Once completed, return your application form by email: info@islamichelp.co.tz or send it by post to: Islamic Help,Plot Number 41 Kambarage street, Mikocheni A. Dar Es Salaam.</p>
+                    <h2>Online</h2>
+                    <a href="http://islamichelp.org.uk/online-volunteer-registration-form" class="btn btn-danger">Online Volunteer Registration Form ></a>
                     </div>
                     <div class="tab-pane" id="tab2">
                         <h2>Volunteer FAQ&rsquo;s </h2>

@@ -24,8 +24,8 @@
             <h3>Solutions</h3>
             <p>The vulnerable communities suggest short and long term plans as solutions. The short term intervention is to provide adequate supply of water and the long term solution of environmental regeneration and advocacy.</p>
             <p>Therefore the short term project of supplying water is an entry point to salvage the communities from becoming climate change refugees. Hence it is envisaged this project is a long term investment and a seed funding for large scale environmental regeneration project to sustain the next generation of these communities.</p>
-            <img src='images/slides/Water/eco_village_water_01.jpg' alt='' width='340'/>
-            <img src='images/slides/Water/eco_village_water_02.jpg' alt='' width='340'/>
+            <img src='images/slides/tonelahuruma/tlh_01.jpg' alt='' width='340'/>
+            <img src='images/slides/tonelahuruma/tlh_02.jpg' alt='' width='340'/>
             <h3>Operational Impact</h3>
             <p>The water supply gaps for the villages in the four respective districts have addressed with more tanks required for Chole and Kwala in Kisarawe district. The impacts of the boreholes, large and medium scale rainwater harvesting community and household, wells drilling are:</p>
             <ul>
@@ -45,8 +45,8 @@
                 <li>The local community will contribute by paying an amount of 300Tsh for a 20 litre bucket as opposed to 700Tsh paid before they pay the same amount in most cases. The difference is the extra money goes to environmental regeneration.</li>
                 <li>The environment will be conserved over time. </li>
             </ol>
-            <img src='images/slides/Water/eco_village_water_03.jpg' alt='' width='340'/>
-            <img src='images/slides/Water/eco_village_water_04.jpg' alt='' width='340'/>
+            <img src='images/slides/tonelahuruma/tlh_03.jpg' alt='' width='340'/>
+            <img src='images/slides/tonelahuruma/tlh_04.jpg' alt='' width='340'/>
     </div>
 </div>
 
