@@ -22,7 +22,7 @@
             <h3>The final days of the emergency response:</h3>
             <p>Islamic Help began distribution of dry food and NFI (non-food-items). The Islamic help team along with the volunteers initiated the distribution of dry food and NFI. The team distributed blankets, dry food and medicines to the victims. A total of 2,000 packs of cooked food were distributed on day 3 and day 4. The media was present at YANGA sports club where the Islamic Help Team were interviewed on their work. Islamic Help Tanzania ended the response project on the 28th of December. The government then took over with the recovery and rehabilitation process</p>
             <img src='images/slides/jangwani/jangwani floods3.png' alt='' width="344"/>
-            <img src='images/slides/jangwani/jangwani floods4.png' alt='' width="344"/>
+            <img src='images/slides/jangwani/j_1.jpg' alt='' width="344"/>
             <table class='table-bordered table-striped table-condensed table table-hover'>
                 <tr>
                     <th>Location</th>

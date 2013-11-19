@@ -16,15 +16,15 @@
                Enthusiastic, dedicated and visionary the group took their ideas to older and wiser members of the community and were pleased to get their support and to launch an initiative that a few years later would become the globally recognised charity that is Islamic Help. It now works in over 20 countries, Tanzania being one of the many.</p> 
             
             <p>Islamic Help started working in Tanzania from 2009 mainly in Mafia Island with two projects “Mission to Mafia”. Since then, Islamic help has implemented livelihood, education, water and sanitation, health and good governance projects in Tanzania. </p>
-            <img src="images/slides/about_us/about_us_1.jpg" alt='Islamic Help Tanzania'/>
+            <img src="images/slides/about_us/a_3_main.jpg" alt='Islamic Help Tanzania' width='690'/>
             <h2>Our Vision</h2>
             <p>To create a world free from poverty based on principles of justice and equality.</p>
 
             <h2>Our Mission</h2>
             <p>To help and empower the poor and needy through building their confidence and independence.</p>
             
-            <img src="images/about_us_1.jpg" alt='Islamic Help Tanzania' width='340'/>
-            <img src="images/about_us_2.jpg" alt='Islamic Help Tanzania' width='340'/>
+            <img src="images/slides/about_us/a_1.jpg" alt='Islamic Help Tanzania' width='340'/>
+            <img src="images/slides/about_us/a_2.jpg" alt='Islamic Help Tanzania' width='340'/>
             
             <h2>Our Values</h2>
             <p>We base all our values on the teachings of the Qur'an and Sunnah.</p>
