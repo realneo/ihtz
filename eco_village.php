@@ -53,7 +53,7 @@
                         <img src='images/slides/ecovillage/eco_village_childrens_homes_02.jpg' alt='' width='230'/>
                         <img src='images/slides/ecovillage/eco_village_childrens_homes_03.jpg' alt='' width='230'/>
                         <p>Each of the 16 spacious homes will accommodate 10 children along with a professional carer. This ‘mother’ will live with the children, building a close relationship with every child entrusted to her and providing the security, love and stability each of them needs. In this environment, the youngsters will enjoy a real sense of security and belonging, growing up and learning together, sharing responsibilities and all the joys and challenges of daily life.</p>
-                        <p>Each house will have three bedrooms, a kitchen, bathroom/toilets, dining area and living room. The buildings and structures are designed to be highly energy efficient and the adoption of green energy technologies, including waste management, recycling and bio-gas, will ensure a clean, green and productive environment.</p>
+                        <p>Each house will have four bedrooms, a kitchen, bathroom/toilets, dining area and living room. The buildings and structures are designed to be highly energy efficient and the adoption of green energy technologies, including waste management, recycling and bio-gas, will ensure a clean, green and productive environment.</p>
                         <img src='images/slides/ecovillage/eco_village_childrens_homes_04.jpg' alt='' width='200'/>
                         <img src='images/slides/ecovillage/eco_village_childrens_homes_05.jpg' alt='' width='200'/>
                         <img src='images/slides/ecovillage/eco_village_childrens_homes_06.jpg' alt='' width='200'/>
@@ -94,7 +94,7 @@
                     </div>
                     <div class="tab-pane" id="tab4">
                         <h3>Water</h3>
-                        <p>The village requires a minimum of 5,000 litres of water every day for drinking and washing, plus additional 4,000-5,000 litres for livestock, farming and gardening purposes, needs that will be met by two 80-metre boreholes.</p>
+                        <p>The village requires a minimum of 15,000 litres of water every day for drinking and washing, plus additional 4,000-5,000 litres for livestock, farming and gardening purposes, needs that will be met by two 80-metre boreholes.</p>
                         <img src='images/slides/water/eco_village_water_01.jpg' alt='' width='225'/>
                         <img src='images/slides/water/eco_village_water_02.jpg' alt='' width='225'/>
                         <img src='images/slides/water/eco_village_water_03.jpg' alt='' width='225'/>

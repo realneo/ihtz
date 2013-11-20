@@ -61,14 +61,14 @@
                 <div class="thumbnail donate pull-left">
                 <div class="donate_layer text-center">
                     <p>Sponsor an Orphan</p>
-                    <p>2,600 Tshs per day</p>
+                    <p>70,000 Tshs per Month</p>
                 </div>
                 </div>
 
                 <div class="thumbnail donate pull-left">
                     <div class="donate_layer text-center">
-                        <p>Plant a Tree</p>
-                        <p>10,000 Tshs per Tree</p>
+                        <p>Plant 5 Trees</p>
+                        <p>50,000 Tshs </p>
                     </div>
                 </div>
 
@@ -100,8 +100,8 @@
             
                 <div class="thumbnail donate pull-left">
                     <div class="donate_layer text-center">
-                        <p>Solar & R/Water Harvesting</p>
-                        <p>44,200,000 Tshs</p>
+                        <p>Reap Smiles</p>
+                        <p>45,000 Tshs @ month</p>
                     </div>
                 </div>
 

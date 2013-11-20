@@ -12,7 +12,7 @@
             <br />
             <h1>Tone La Huruma</h1>
             <p>Access to safe drinking water and improved sanitation is necessary for health, income generation, poverty alleviation, gender equality, human rights and personal dignity. Yet in Tanzania, almost one out of every two people has no access to safe water supply. Due to vast geographic dispersion, rural Tanzanians often spend their valuable time to travel long distances to fetch water. </p>
-            <p>Islamic Help has been working in Tanzania since 2009 and our efforts are bringing improvements in the wellbeing of families by providing water solutions in the form of water pumps, wells, rain (roof) harvesting, water conservation and hygiene education. Implementation of our initiatives will contribute towards the eradication of poverty and contribute towards meeting target 10 of the Millennium Development Goal (MDGs) – Halving the proportion of people without access to safe drinking water and basic sanitation by 2015.</p> 
+            <p>Islamic Help has been working in Tanzania since 2009 and our efforts are bringing improvements in the wellbeing of families by providing water solutions in the form of water pumps, wells, rain (roof) harvesting, solar powered boreholes, establishment of harims, water conservation and hygiene education. Implementation of our initiatives will contribute towards the eradication of poverty and contribute towards meeting target 10 of the Millennium Development Goal (MDGs) – Halving the proportion of people without access to safe drinking water and basic sanitation by 2015.</p> 
             <h3>Selected Districts for Intervention</h3>
             <ol>
                 <li>Mafia</li>
@@ -27,7 +27,7 @@
             <img src='images/slides/tonelahuruma/tlh_01.jpg' alt='' width='340'/>
             <img src='images/slides/tonelahuruma/tlh_02.jpg' alt='' width='340'/>
             <h3>Operational Impact</h3>
-            <p>The water supply gaps for the villages in the four respective districts have addressed with more tanks required for Chole and Kwala in Kisarawe district. The impacts of the boreholes, large and medium scale rainwater harvesting community and household, wells drilling are:</p>
+            <p>The water supply gaps for the villages in the four respective districts have addressed with more tanks required in Kisarawe district. The impacts of the boreholes, large and medium scale rainwater harvesting community and household, wells drilling are:</p>
             <ul>
                 <li>Quality water supplied for each of the water villages.</li>
                 <li>Disease and more so water borne disease and water contamination is reduced.</li>
