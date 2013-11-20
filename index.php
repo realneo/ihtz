@@ -27,7 +27,7 @@
                             <a href="economic.php"><img src='images/slides/index/slide3.jpg' alt='' /></a>
                         </li>
                         <li>
-                            <a href=""><img src='images/slides/index/slide4.jpg' alt='' /></a>
+                            <a href=""><img src='images/slides/index/slide6.jpg' alt='' /></a>
                         </li>
                     </ul>
                 </div>

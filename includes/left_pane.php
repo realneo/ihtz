@@ -27,7 +27,7 @@
     </div>
     <a href='qurbani.php'>Qurbani</a>
     <br />
-    <a href='food.php'>Reap Smiles</a>
+    <a href='food.php'>Food Security</a>
     <br />
     <a href='water.php'>Tone La Huruma</a>
     
@@ -54,7 +54,9 @@
     </div>
     <a href='economic.php'>Wezesha Maisha</a>
     <br />
-    <a href='#tab2' data-toggle="tab">SACCOS</a>
+    <a href='economic.php#tab2'>SACCOS</a>
+    <br />
+    <a href="economic.php#tab3">TREND</a>
     <br />
     <a href='cordoba.php'>Cordoba School</a>
     <br />
@@ -67,7 +69,7 @@
     </div>
     <a href='jangwani.php'>Jangwani Floods 2011</a>
     <br />
-    <a href='somali.php'>Somalia Drought 2011</a>
+    <a href='somali.php'>Somalia Droughts 2011</a>
     
     <br />
     <br />

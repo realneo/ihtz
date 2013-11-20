@@ -25,10 +25,10 @@
             <img src='images/slides/jangwani/j_1.jpg' alt='' width="344"/>
             <table class='table-bordered table-striped table-condensed table table-hover'>
                 <tr>
-                    <th>Location</th>
-                    <th>Cooked Food</th>
-                    <th>Dry Food</th>
-                    <th>NFI(Non-Food Items)</th>
+                    <th class="red">Location</th>
+                    <th class="red">Cooked Food</th>
+                    <th class="red">Dry Food</th>
+                    <th class="red">NFI(Non-Food Items)</th>
                 </tr>
                 <tr>
                     <td>YANGA Club</td>

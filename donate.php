@@ -13,15 +13,29 @@
             <div class="well-small well"><h2>Ways to Donate</h2></div>
             <div class="thumbnail donate pull-left">
                 <div class="donate_layer text-center">
-                    <p>Barklays Bank</p>
+                    <p>Barklays Bank TZS</p>
                     <p>0016015326</p>
                 </div>
             </div>
             
             <div class="thumbnail donate pull-left">
                 <div class="donate_layer text-center">
-                    <p>Amana Bank</p>
-                    <p>0016015326</p>
+                    <p>Barklays Bank USD</p>
+                    <p>0016017019</p>
+                </div>
+            </div>
+            
+            <div class="thumbnail donate pull-left">
+                <div class="donate_layer text-center">
+                    <p>Amana Bank TZS</p>
+                    <p>003120033610001</p>
+                </div>
+            </div>
+            
+            <div class="thumbnail donate pull-left">
+                <div class="donate_layer text-center">
+                    <p>Amana Bank USD</p>
+                    <p>003120033610002</p>
                 </div>
             </div>
             
@@ -41,40 +55,55 @@
             <br /> 
             <br />
             <br />
+            <br /> 
+            <br />
             <div class="well well-small"><h2>General Donations</h2></div>
                 <div class="thumbnail donate pull-left">
                 <div class="donate_layer text-center">
                     <p>Sponsor an Orphan</p>
-                    <p>2,600/= per day</p>
+                    <p>2,600 Tshs per day</p>
                 </div>
                 </div>
 
                 <div class="thumbnail donate pull-left">
                     <div class="donate_layer text-center">
                         <p>Plant a Tree</p>
-                        <p>10,000/= per Tree</p>
+                        <p>10,000 Tshs per Tree</p>
                     </div>
                 </div>
 
                 <div class="thumbnail donate pull-left">
                     <div class="donate_layer text-center">
                         <p>Hand-Pump</p>
-                        <p>312,000/=</p>
+                        <p>312,000 Tshs</p>
                     </div>
                 </div>  
 
                 <div class="thumbnail donate pull-left">
                     <div class="donate_layer text-center">
                         <p>Rainwater Harvesting</p>
-                        <p>320,000/=</p>
+                        <p>320,000 Tshs</p>
                     </div>
                 </div>  
                 <div class="thumbnail donate pull-left">
                     <div class="donate_layer text-center">
                         <p>Large Rainwater Harvesting</p>
-                        <p>800,000/=</p>
+                        <p>800,000 Tshs</p>
                     </div>
-                </div>  
+                </div>
+                <div class="thumbnail donate pull-left">
+                    <div class="donate_layer text-center">
+                        <p>Borehole</p>
+                        <p>7,280,000 Tshs</p>
+                    </div>
+                </div>
+            
+                <div class="thumbnail donate pull-left">
+                    <div class="donate_layer text-center">
+                        <p>Solar & R/Water Harvesting</p>
+                        <p>44,200,000 Tshs</p>
+                    </div>
+                </div>
 
         </div>
 

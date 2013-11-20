@@ -6366,7 +6366,7 @@ h3{
     top:30px;
 }
 
-p{font-size: 12px;}
+p{font-size: 12px; text-align:justify;}
 .green_color{color:green}
 .italic{font-style:italic}
 .bold{font-weight: bold}
@@ -6375,9 +6375,8 @@ h2.tut{
     /* This is the "MY TWEETS" title */
     color:white;
     font-family:hands-of-sean;
-    font-size:20px;
+    font-size:12px;
     padding:12px 0 0 58px;
-    letter-spacing: 1px;
     font-weight: normal;
     cursor: pointer;
 
@@ -6566,7 +6565,7 @@ nav ul li:hover ul {
 nav ul li ul li ul{
     display:block;
     margin-left: 172px;
-    margin-top:-10px;
+    margin-top:-15px;
 }
 
 nav ul li ul li:hover ul li{
@@ -6584,4 +6583,7 @@ nav ul li ul li ul li{
      -o-transition: all 0.8s;
      transition: all 0.8s;  
      width:150px;
+}
+.red{
+    color:#B3121A;
 }

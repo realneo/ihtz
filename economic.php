@@ -13,7 +13,7 @@
             <h1>Economic Empowerment</h1>
             <div class="tabbable"> <!-- Only required for left/right tabs -->
                 <ul class="nav nav-tabs">
-                    <li class="active"><a href="#tab1" data-toggle="tab">HOME</a></li>
+                    <li class="active"><a href="#tab1" data-toggle="tab">WEZESHA MAISHA</a></li>
                     <li><a href="#tab2" data-toggle="tab">SACCOSS</a></li>
                     <li><a href="#tab3" data-toggle="tab">TREND</a></li>
                 </ul>
@@ -47,21 +47,21 @@
                         <img src='images/slides/economic/e4.jpg' alt='' width='340'/>
                         <p>The following are forms and types of products and services offered through the scheme:</p>
                         
-                        <h3>Murabaha:</h3>
-                        <p>&nbsp;<em>Murabaha </em>involves the resale of a commodity, after adding a specific profit margin (often referred to as a &lsquo;mark-up&rsquo;) by the lender to the borrower who agrees to buy that commodity for the new offered price. Usually, repayment is made in installments to the financier.</p>
+                        <h2>Murabaha:</h2>
+                        <p>Murabaha involves the resale of a commodity, after adding a specific profit margin (often referred to as a &lsquo;mark-up&rsquo;) by the lender to the borrower who agrees to buy that commodity for the new offered price. Usually, repayment is made in installments to the financier.</p>
                         
-                        <h3>Mudaraba:</h3>
-                        <p>Here the financier provides all the money and the entrepreneur (or <em>mudarib</em>) who uses his or her skill to invest the money in an attractive business. In a <em>mudaraba </em>contract when a profit is realized, it is shared between the financiers and the entrepreneur according to a pre-determined ratio.</p>
+                        <h2>Mudaraba:</h2>
+                        <p>Here the financier provides all the money and the entrepreneur (or mudarib) who uses his or her skill to invest the money in an attractive business. In a mudaraba contract when a profit is realized, it is shared between the financiers and the entrepreneur according to a pre-determined ratio.</p>
                         
-                        <h3>Qard hasan</h3>
+                        <h2>Qard hasan</h2>
                         <p>This is a type of loan were the borrower should only repay the principal no profit will be set only lender has to cover the administrative costs incurred in disbursing the loan. The service</p>
                         <p>Charges are not profit.</p>
                         
-                        <h3>Bay&rsquo;salam</h3>
+                        <h2>Bay&rsquo;salam</h2>
                         <p>In order to provide working capital to enterprises, WMS is empowered to purchase</p>
                         <p>Future output by paying the price in advance. Such transactions are usually known as bay salam or forward sales<strong>.</strong></p>
                         
-                        <h3>Entrepreneurship training</h3>
+                        <h2>Entrepreneurship training</h2>
                         <p>Training will be provided to members at an affordable cost, various training modules have been prepared to suit the needs of small-scale entrepreneurs this will enhance capacity building.</p>
                         <img src='images/slides/economic/saccos01.jpg' alt='' width='340'/>
                         <img src='images/slides/economic/saccos02.jpg' alt='' width='340'/>

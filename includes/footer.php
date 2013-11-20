@@ -28,20 +28,20 @@
                     <tr>
                         <td><a href='contact.php'>Contact Us</a></td>
                         <td><a href='donate.php'>Ways to Donate</a></td>
-                        <td><a href='events.php'>Events</a></td>
+                        <td><a href='vacancies.php'>Vacancies</a></td>
                         <td><a href='eco_village.php'>Homes</a></td>
                     </tr>
                     <tr>
                         <td></td>
                         <td></td>
-                        <td></td>
+                        <td><a href='events.php'>Events</a></td>
                         <td><a href='education.php'>Education & Training</a></td>
                     </tr>
                     <tr>
                         <td></td>
                         <td></td>
                         <td></td>
-                        <td><a href='emergency.php'>Emergency Relief</a></td>
+                        <td><a href='economic.php'>Empowerment & Livelihood</a></td>
                     </tr>
                     <tr>
                         <td></td>
@@ -58,6 +58,8 @@
             </div>
         </div>
     </div>
+    <br />
+    <br />
 </div>
 </body>
 </html>

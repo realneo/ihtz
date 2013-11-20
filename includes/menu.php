@@ -15,13 +15,13 @@
                         <li><a href="orphans.php">Orphan Care</a>
                             <ul>
                                 <li><a href="orphans.php">Home Based</a></li>
-                                <li><a href="ecovillage.php">Eco Village</a></li>
+                                <li><a href="eco_village.php">Eco Village</a></li>
                             </ul>
                         </li>
                         <li><a href="education.php">Education</a>
                             <ul>
                                 <li><a href="smallhands.php">Small Handds</a></li>
-                                <li><a href="education.php">Seminars</a></li>
+                                <li><a href="education.php">Educational Seminars</a></li>
                             </ul>
                         </li>
                         <li><a href="environment.php">Environmental Sustainability</a>
@@ -32,8 +32,8 @@
                         <li><a href="economic.php">Economic Empowerment</a>
                             <ul>
                                 <li><a href="economic.php">Wezesha Maisha</a></li>
-                                <li><a href="economic.php">Saccos</a></li>
-                                <li><a href="economic.php">TREND</a></li>
+                                <li><a href="economic.php#tab2">SACCOS</a></li>
+                                <li><a href="economic.php#tab3">TREND</a></li>
                             </ul>
                         </li>
                     </ul>
@@ -44,7 +44,12 @@
                         <li><a href="events.php">Past Events</a></li>
                     </ul>
                  </li>
-                 <li><a href="volunteer.php">Get Involved</a></li>
+                 <li><a href="volunteer.php">Get Involved</a>
+                     <ul>
+                         <li><a href="volunteer.php">Volunteer</a></li>
+                         <li><a href="vacancies.php">Vacancies</a></li>
+                     </ul>
+                 </li>
                  <!--<li><a href="#">Latest</a></li>-->
                  <li><a href="contact.php">Contact Us</a></li>
             </ul>
