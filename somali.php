@@ -19,7 +19,7 @@
             <p>Families cooked on small fires and a single mango was usually shared between two or three children. The majority of the populations were farmers whose crops died after a year without rain. Others were pastoralists whose animals perished. The situation was dire as the entire population faced a terrible human catastrophe unless immediate intervention was deployed.  </p>
             <img src='images/slides/somaliaa/som_mid_8.jpg' alt='' width="344"/>
             <img src='images/slides/somaliaa/som_mid_7.jpg' alt='' width="344"/>
-            <p>Islamic Help Tanzania agreed on a joint intervention in Somalia with Somali Relief and Development Forum (SRDF). Islamic Help Tanzania responded through deploying food convoys leading 125MT food aid and raising considerable awareness about the conditions in Somalia paving the way for a community owned response from Tanzanians to the people of Somalia displaying African unity and solidarity. </p>
+            <p>Islamic Help Tanzania agreed on a joint intervention in Somalia with Somali Relief and Development Forum (SRDF), Programme on Life Emergency (POLE) and various local organisations. The joint intervention responded through deploying a convoy of three trucks carrying 125MT of food aid and other items such as wheat, flour, rice, maize, dates, sugar and nutritional supplements. In addition, Islamic Help Tanzania raised considerable awareness about the conditions in Somalia paving the way for a community owned response from Tanzanians to the people of Somalia displaying African unity and solidarity. </p>
         </div>
     </div>
 </div>

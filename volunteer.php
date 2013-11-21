@@ -27,7 +27,7 @@
                     <a href="http://islamichelp.org.uk/images/ih_volunteer_registration_form.pdf">Islamic Help Volunteer Registration Form (pdf format)</a>
                     <p>Once completed, return your application form by email: info@islamichelp.co.tz or send it by post to: Islamic Help,Plot Number 41 Kambarage street, Mikocheni A. Dar Es Salaam.</p>
                     <h2>Online</h2>
-                    <a href="http://islamichelp.org.uk/online-volunteer-registration-form" class="btn btn-danger">Online Volunteer Registration Form ></a>
+                    <a href="downloads/ihtz_volunteer_registration_form.pdf" class="btn btn-danger">Online Volunteer Registration Form ></a>
                     </div>
                     <div class="tab-pane" id="tab2">
                         <h1>Volunteer FAQ&rsquo;s </h1>

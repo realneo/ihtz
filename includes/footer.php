@@ -51,10 +51,10 @@
                     </tr>
                 </table>
                 <p>Registered Charity Number 996793</p>
-                <a href="#">Vacancies</a>   |   
-                <a href="#">Terms & Conditions</a>   |   
-                <a href="#">Privacy Policy</a>   |   
-                <a href="#">Contact Us</a>
+                <a href="vacancies.php">Vacancies</a>   |   
+                <a href="terms.php">Terms & Conditions</a>   |   
+                <a href="privacy.php">Privacy Policy</a>   |   
+                <a href="contact.php">Contact Us</a>
             </div>
         </div>
     </div>

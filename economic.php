@@ -41,30 +41,17 @@
                     </div>
                     <div class="tab-pane" id="tab2">
                         <h3>Wezesha Maisha SACCOS (saving and credit co-operative association) project.</h3>
-                        <p>In 2013, Islamic Help Tanzania established a microfinance service, SACCOS (saving and credit co-operative association) project. The SACCOS project aims to provide microfinance services as a means of curbing entrepreneur challenges of savings, promoting rapid economic growth and economic independence for those living in poverty. Islamic Help&rsquo;s vision is to establish a wide network of credit and lending scheme to become the leading interest Sacco&rsquo;s in Tanzania by 2015.</p>
-                        <p>The SACCOS project aims to target small-scale entrepreneurs who are thriving to take their businesses to the next level of growth. The current target market is women who have been empowered in Kigamboni, and guardians of the supported orphans in the area.</p>
+                        <p>In 2013, Islamic Help Tanzania established a microfinance service, SACCOS (saving and credit co-operative association) project. The SACCOS project aims to provide microfinance services as a means of curbing entrepreneur challenges of savings, promoting rapid economic growth and economic independence for those living in poverty. Islamic Help’s vision is to establish a wide network of credit and lending scheme to become the leading interest free Sacco’s in Tanzania by 2015.</p>
+                        <img src='images/slides/economic/saccos01.jpg' alt='' width='340'/>
+                        <img src='images/slides/economic/saccos02.jpg' alt='' width='340'/>
+                        <p>The SACCOS project aims to target small-scale entrepreneurs and guardians of the supported orphans in the area. Currently 95% of people on the scheme are female. </p>
                         <img src='images/slides/economic/e3.jpg' alt='' width='340'/>
                         <img src='images/slides/economic/e4.jpg' alt='' width='340'/>
                         <p>The following are forms and types of products and services offered through the scheme:</p>
-                        
-                        <h2>Murabaha:</h2>
-                        <p>Murabaha involves the resale of a commodity, after adding a specific profit margin (often referred to as a &lsquo;mark-up&rsquo;) by the lender to the borrower who agrees to buy that commodity for the new offered price. Usually, repayment is made in installments to the financier.</p>
-                        
-                        <h2>Mudaraba:</h2>
-                        <p>Here the financier provides all the money and the entrepreneur (or mudarib) who uses his or her skill to invest the money in an attractive business. In a mudaraba contract when a profit is realized, it is shared between the financiers and the entrepreneur according to a pre-determined ratio.</p>
-                        
-                        <h2>Qard hasan</h2>
-                        <p>This is a type of loan were the borrower should only repay the principal no profit will be set only lender has to cover the administrative costs incurred in disbursing the loan. The service</p>
-                        <p>Charges are not profit.</p>
-                        
-                        <h2>Bay&rsquo;salam</h2>
-                        <p>In order to provide working capital to enterprises, WMS is empowered to purchase</p>
-                        <p>Future output by paying the price in advance. Such transactions are usually known as bay salam or forward sales<strong>.</strong></p>
-                        
-                        <h2>Entrepreneurship training</h2>
-                        <p>Training will be provided to members at an affordable cost, various training modules have been prepared to suit the needs of small-scale entrepreneurs this will enhance capacity building.</p>
-                        <img src='images/slides/economic/saccos01.jpg' alt='' width='340'/>
-                        <img src='images/slides/economic/saccos02.jpg' alt='' width='340'/>
+                        <h3>Qard Hasan</h3>
+                        <h3>Murabaha</h3>
+                        <h3>Mudaraba</h3>
+                        <h3>Bay'salam</h3>
                     </div>
                     <div class="tab-pane" id="tab3">
                         <h1>Trend project</h1>
