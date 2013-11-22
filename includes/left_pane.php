@@ -76,5 +76,5 @@
     <a href="http://islamichelp.org.uk/images/IH_ProjectReport2013-WEB.pdf"><img src='images/ih_report2013.jpg' /></a>
     <br />
     <br />
-    <a class='btn btn-danger btn-block' href='http://www.islamichelp.org.uk'>Islamichelp UK</a>
+    <a class='btn btn-danger btn-block' href='http://www.islamichelp.org.uk'>Islamic Help UK</a>
 </div><!-- span2 (Left Pane) -->

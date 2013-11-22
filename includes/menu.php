@@ -21,7 +21,7 @@
                         <li><a href="education.php">Education</a>
                             <ul>
                                 <li><a href="smallhands.php">Small Hands</a></li>
-                                <li><a href="cordoba.php">Cordoba</a></li>
+                                <li><a href="cordoba.php">Cordoba School</a></li>
                                 <li><a href="education.php">Educational Seminars</a></li>
                             </ul>
                         </li>

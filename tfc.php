@@ -35,7 +35,7 @@
                         <h1>Plant Nursery <img src='images/tfc/trees_for_change_logo_60px.jpg' alt='' class='pull-right'/></h1>
                         <br />
                         <p>Increasing charcoal and timber production, inefficient use of land for agriculture, mining and expansion of human habitation are among the primary causes for deforestation in Tanzania. Inevitably this has led to receding ground water levels, vulnerability to food insecurity, land degradation and, in the bigger picture, the effects of climate change.
-                        <p>To combat some of these, Islamic Help in Tanzania has launched a major tree planting campaign, Trees for Change. About 30,000 trees of different species, including fruit trees, will be planted and distributed in villages.
+                        <p>To combat some of these, Islamic Help Tanzania has launched a major tree planting campaign, Trees for Change. About 30,000 trees of different species, including fruit trees, will be planted and distributed in villages.
                         <p>In the long term, it will not only offset the effects of deforestation and climate change but also allow communities to nurture their own nurseries, earn livelihoods, learn agricultural techniques and even improve soil quality and the purity of water sources.
 
                         <p>Trees for Change aims to:
@@ -57,8 +57,8 @@
                     <div class='tab-pane' id='tab3'>
                         <h1>World Record<img src='images/tfc/guinness_world_record_logo_60px.png' alt='' class='pull-right'/><img src='images/tfc/trees_for_change_logo_60px.jpg' alt='' class='pull-right'/></h1>
                         <br />
-                        <p>If 2013 was a landmark year with our 10th anniversary, 2014 promises to be a world record-breaker for Islamic Help.</p>
-                        <p>We have embarmed on one of our most ambitious projects ever - most trees planted in one hour, a feat that will earn us a place among the Guinness World Records title-holders. The current record (set in April 2012) is 40,885 trees planted by 100 people in 1 hour in India*.</p>
+                        <p>If 2013 was a landmark year with Islamic Help UK's 10th anniversary, 2014 promises to be a world record-breaker for Islamic Help.</p>
+                        <p>We have embarked on one of our most ambitious projects ever - most trees planted in one hour, a feat that will earn us a place among the Guinness World Records title-holders. The current record (set in April 2012) is 40,885 trees planted by 100 people in 1 hour in India*.</p>
                         <p>The aim of the initiative is to highlight the impact trees and the environment have on the quality of life and poverty.</p>
                         <img src='images/tfc/mount_kilimanjaro_med.jpg' alt='' width='690' />
                         <p>After surveying a number of locations in Tanzania, Islamic Help has set itself the challenge of planting 50,000 trees at the foot of Mt. Kilmanjaro. This is where the biggest impact of global warming is felt, where the largest carbon footprint is created (due tourism) and is also a high profile area to raise awareness of the campaign.</p>
