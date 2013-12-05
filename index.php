@@ -15,20 +15,24 @@
             <div class="flexslider">
                     <ul class="slides">
                         <li>
-                            <a href="ecovillage.php"><img src='images/slides/index/slide5.jpg' alt=''/></a>
+                            <a href="eco_village.php"><img src='images/slides/index/slide_1.jpg' alt=''/></a>
                         </li>
                         <li>
-                            <a href="ecovillage.php"><img src='images/slides/index/slide1.jpg' alt='' /></a>
+                            <a href="tfc.php"><img src='images/slides/index/slide_2.jpg' alt='' /></a>
                         </li>
                         <li>
-                            <a href="tfc.php"><img src='images/slides/index/slide2.jpg' alt='' /></a>
+                            <a href="eco_village.php"><img src='images/slides/index/slide_3.jpg' alt='' /></a>
                         </li>
                         <li>
-                            <a href="economic.php"><img src='images/slides/index/slide3.jpg' alt='' /></a>
+                            <a href="economic.php"><img src='images/slides/index/slide_4.jpg' alt='' /></a>
                         </li>
                         <li>
-                            <a href=""><img src='images/slides/index/slide6.jpg' alt='' /></a>
+                            <a href="eco_village.php"><img src='images/slides/index/slide_5.jpg' alt='' /></a>
                         </li>
+                        <li>
+                            <a href="smallhands.php"><img src='images/slides/index/slide_6.jpg' alt='' /></a>
+                        </li>
+
                     </ul>
                 </div>
         </div>
