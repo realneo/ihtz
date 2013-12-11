@@ -15,7 +15,7 @@
                         <li><a href="orphans.php">Orphan Care</a>
                             <ul>
                                 <li><a href="orphans.php">Home Based</a></li>
-                                <li><a href="eco_village.php">Eco Village</a></li>
+                                <li><a href="eco_village.php">Children's Village</a></li>
                             </ul>
                         </li>
                         <li><a href="education.php">Education</a>

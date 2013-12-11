@@ -1,7 +1,14 @@
-<!DOCTYPE html>	
+<!DOCTYPE html>
 <html lang='en'>
-    <meta charset="UTF-8">
     <head>
+        <title>Islamic Help Tanzania</title>
+
+        <link rel="icon"
+              type="image/png"
+              href="http://yoteyote.com/demo/ihelptz/favicon.png"/>
+
+    <meta charset="UTF-8">
+
         <link href='css/bootstrap.css' rel='stylesheet' type='text/css' />
         <link href='css/flexslider/flexslider.css' rel='stylesheet' type='text/css' />
         <script src="js/jquery-1.10.2.min.js"></script>
@@ -11,7 +18,9 @@
         <script src="js/bootstrap.js"></script>
         <script src="js/main.js"></script>
 
-        <title>Islamic Help Tanzania</title>
+
+
+
     </head>
     <body>
         <div id='tree'><img src='img/tree.gif' alt='Welcome to Islamic Help Tanzania'/></div><!-- tree -->

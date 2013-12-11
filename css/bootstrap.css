@@ -6311,6 +6311,27 @@ h3{
     padding:5px 0px;
     font-size:10px;
 }
+
+.red_block2{
+    font-family: "hands-of-sean";
+    color:#000000;
+    text-align: center;
+    padding:6px 6px;
+    font-size:11px;
+
+}
+
+.red_block3{
+    font-family: "hands-of-sean";
+    background-color:#B3121A;
+    color:#ffffff;
+    text-align: center;
+    padding:6px 6px;
+    font-size:15px;
+
+}
+
+
 .red_grass{
     background: url('../img/red_grass.gif') repeat-x;
     width:100%;
@@ -6320,9 +6341,10 @@ h3{
 
 /* Donate Button */
 #donate_btn{
-    position:absolute;
-    top:90px;
-    left:1000px;
+    position: relative;
+    top: -50px;
+    left: 12px;
+    float: right;
 }
 #donate_bg{
     background-color:#390401;
@@ -6384,8 +6406,8 @@ p{font-size: 12px; text-align:justify;}
 h2.tut{
     /* This is the "MY TWEETS" title */
     color:white;
-    font-family: calibri;
-    font-size:19px;
+    font-family: hands-of-sean;
+    font-size:15px;
     padding: 0px 0 0 2px;
     font-weight: normal;
     cursor: pointer;

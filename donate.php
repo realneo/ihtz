@@ -57,7 +57,7 @@
             <br />
             <br /> 
             <br />
-            <div class="well well-small"><h2>General Donations</h2></div>
+            <div class="well well-small"><h2>Donation Price Handles</h2></div>
                 <div class="thumbnail donate pull-left">
                 <div class="donate_layer text-center">
                     <p>Sponsor an Orphan</p>

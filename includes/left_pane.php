@@ -1,11 +1,14 @@
 <div class="span2 left_pane">
     <br />
-    <br />
     <a href="index.php"><img src="img/ih_logo.gif" alt="Islamic Help Tanzania" width='200'/></a>
     <br />
+    <!--the awesome class button that was removed------
+    <a class='btn btn-danger btn-block' href='http://www.islamichelp.org.uk'>Visit Islamic Help UK</a>
+     -----ends here ---->
     <br />
+    <a class='red_block2' href='http://www.islamichelp.org.uk'><img src="img/english_flag.png" alt="englishflag"> Visit Islamic Help UK</a>
     <br />
-    
+
     <div class='left_red_block'>
         <div class='red_grass'>&nbsp;</div>
         <br />
@@ -45,7 +48,7 @@
         </div>
         <a href='orphans.php'>Orphan Care</a>
         <br />
-        <a href='eco_village.php'>Eco Village</a>
+        <a href='eco_village.php'>Children's Village</a>
     
     <div class='left_red_block'>
         <div class='red_grass'>&nbsp;</div>
@@ -76,5 +79,5 @@
     <a href="http://islamichelp.org.uk/images/IH_ProjectReport2013-WEB.pdf"><img src='images/ih_report2013.jpg' /></a>
     <br />
     <br />
-    <a class='btn btn-danger btn-block' href='http://www.islamichelp.org.uk'>Islamic Help UK</a>
+
 </div><!-- span2 (Left Pane) -->

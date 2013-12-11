@@ -6,7 +6,7 @@
         
         <!-- The twitter icon -->
         <div class='red_grass_tw'>&nbsp;</div>
-        <h2 class="tut"><img src="images/twitter_64.png"  height='30' alt="Twitter icon" />@iHelpTz</h2>
+        <h2 class="tut"><img src="images/twitter_64.png"  height='30' alt="Twitter icon" />@iHelp tz </h2>
         <!-- Title -->
 
     </div>

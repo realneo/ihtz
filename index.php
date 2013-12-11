@@ -43,27 +43,27 @@
                         <div class='mid_red_block'>
                             <div class='red_grass'>&nbsp;</div>
                             <br />
-                            <div class='red_block'>Water Projects</a></div>
+                            <div class='red_block3'>Water Projects</a></div>
                         </div>
                     </th>
                     <th>
                         <div class='mid_red_block'>
                             <div class='red_grass'>&nbsp;</div>
                             <br />
-                            <div class='red_block'>Orphan Care</div>
+                            <div class='red_block3'>Children's Village</div>
                         </div>
                     </th>
                     <th>
                         <div class='mid_red_block'>
                             <div class='red_grass'>&nbsp;</div>
                             <br />
-                            <div class='red_block'>Environmental Sustainability</div>
+                            <div class='red_block3'>Environmental Sustainability</div>
                         </div>
                     </th>
                 </tr>
                 <tr>
                     <td><a href="water.php"><img src='img/water_pic.gif' alt='Tone La Huruma'/></a></td>
-                    <td><a href="orphans.php"><img src='img/children_together.gif' alt='Orphan Care Program' /></a></td>
+                    <td><a href="eco_village.php"><img src='img/eco_village.jpg' alt=" children's village " /></a></td>
                     <td><a href="environmental.php"><img src='img/trees_for_change.gif' alt='Trees For Change' /></a></td>
                 </tr>
             </table>
