@@ -57,7 +57,7 @@
             <br />
             <br /> 
             <br />
-            <div class="well well-small"><h2>Donation Price Handles</h2></div>
+            <div class="well well-small"><h2>Donations Price Handles</h2></div>
                 <div class="thumbnail donate pull-left">
                 <div class="donate_layer text-center">
                     <p>Sponsor an Orphan</p>
@@ -85,12 +85,7 @@
                         <p>320,000 Tshs</p>
                     </div>
                 </div>  
-                <div class="thumbnail donate pull-left">
-                    <div class="donate_layer text-center">
-                        <p>Large Rainwater Harvesting</p>
-                        <p>800,000 Tshs</p>
-                    </div>
-                </div>
+
                 <div class="thumbnail donate pull-left">
                     <div class="donate_layer text-center">
                         <p>Borehole</p>
@@ -101,7 +96,7 @@
                 <div class="thumbnail donate pull-left">
                     <div class="donate_layer text-center">
                         <p>Reap Smiles</p>
-                        <p>45,000 Tshs @ month</p>
+                        <p>45,000 Tshs per month</p>
                     </div>
                 </div>
 

@@ -40,6 +40,8 @@
         <div class='red_block'>iHelp The Environment</div>
     </div>
     <a href='tfc.php'>Trees For Change</a>
+    <br />
+    <a href='eco_mosque.php'>Eco Mosque</a>
 
     <div class='left_red_block'>
         <div class='red_grass'>&nbsp;</div>

@@ -13,33 +13,15 @@
             <h1>About us</h1>
             <h2>Our History</h2>
             <p>Islamic Help is a UK registered charity and international NGO established in 2003 by a group of young people determined to make a difference to the lives of those afflicted by poverty and suffering.
-               Enthusiastic, dedicated and visionary the group took their ideas to older and wiser members of the community and were pleased to get their support and to launch an initiative that a few years later would become the globally recognised charity that is Islamic Help. It now works in over 20 countries, Tanzania being one of the many.</p> 
-            
-            <p>Islamic Help started working in Tanzania from 2009 mainly in Mafia Island with two projects “Mission to Mafia”. Since then, Islamic help has implemented livelihood, education, water and sanitation, health and good governance projects in Tanzania. </p>
-            <img src="images/slides/about_us/a_3_main.jpg" alt='Islamic Help Tanzania' width='690'/>
-            <h2>Our Vision</h2>
-            <p>To create a world free from poverty based on principles of justice and equality.</p>
+               Enthusiastic, dedicated and visionary the group took their ideas to older and wiser members of the community and were pleased to get their support and to launch an initiative that a few years later would become the globally recognised charity that is Islamic Help. It now works in over 20 countries, Tanzania being one of the many.</p>
+            <img src="images/slides/about_us/a_3_main.jpg" alt='Islamic Help Tanzania' width='690'/> <br /><br />
 
-            <h2>Our Mission</h2>
-            <p>To help and empower the poor and needy through building their confidence and independence.</p>
-            
+            <p>Islamic Help has been working in Tanzania since 2007 thriving for sustainable development of communities through various projects covering, orphan care and sponsorships, water supply and sanitation, environmental sustainability, economic empowerment and livelihood, education, food security and emergency relief. Islamic Help Tanzania’s life changing initiatives not only help beneficiaries, but also contribute towards Tanzania’s national plan of action for the most vulnerable children and Millennium Development Goals (MDG’s).</p>
+            <br />
+
             <img src="images/slides/about_us/a_1.jpg" alt='Islamic Help Tanzania' width='340'/>
             <img src="images/slides/about_us/a_2.jpg" alt='Islamic Help Tanzania' width='340'/>
-            
-            <h2>Our Values</h2>
-            <p>We base all our values on the teachings of the Qur'an and Sunnah.</p>
-            
-            <p class='green_color italic bold'>Transparency</p>
-            <p>We must be open in our work and actions as we are answerable to God Almighty for all that we do.</p>
 
-            <p class='green_color italic bold'>Integrity</p>
-            <p>Each person has the right to live and be treated with dignity and integrity.</p> 
-
-            <p class='green_color italic bold'>Empowerment</p>
-            <p>Through empowerment, people are able to make a difference in their life and the society they live in.</p>
-
-            <p class='green_color italic bold'>Understanding</p>
-            <p>By understanding the needs of the different people we are able to provide the best services they require. </p>
         </div>
     </div>
 </div>
