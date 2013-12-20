@@ -1,3 +1,4 @@
+<?php session_start(); ?>
 <!DOCTYPE html>
 <html lang='en'>
     <head>
@@ -7,9 +8,8 @@
               type="image/png"
               href="http://yoteyote.com/demo/ihelptz/favicon.png"/>
 
-        <meta name="description" content="Islamic Help started working in Tanzania from 2009 mainly in Mafia Island with two projects “Mission to Mafia”. Since then, Islamic help has implemented livelihood, education, water and sanitation, health and good governance projects in Tanzania.">
-        <meta name="keywords" content="Projects,How  to get involved,mission possible,sponsor an orphan">
-        <meta name="author" content="Commmunications Department Tanzania 2011-2013">
+        <?php include('includes/meta_tags.php'); ?>
+
 
     <meta charset="UTF-8">
 
@@ -21,6 +21,9 @@
         
         <script src="js/bootstrap.js"></script>
         <script src="js/main.js"></script>
+
+
+
 
 
 

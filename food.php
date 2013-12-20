@@ -62,6 +62,13 @@
                     </tr>
                 </tbody>
             </table>
+
+            <ul class="thumbnails">
+                <li class="span8">
+                    <iframe width="695" height="400" src="//www.youtube.com/embed/K-XH8IUQnQc" frameborder="0" allowfullscreen></iframe>
+                </li>
+            </ul>
+
         </div>
     </div>
 </div>

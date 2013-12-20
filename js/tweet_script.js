@@ -1,6 +1,6 @@
 $(function(){
 
-    var tweetUsers = ['neo_nadhir', 'feisalkassim','bint_mfalme'],
+    var tweetUsers = ['ihelptz'],
         container = $('#tweet-container');
 
     $('#twitter-ticker').slideDown('slow');

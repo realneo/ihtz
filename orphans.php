@@ -11,7 +11,7 @@
         <div class='span9' id='infomation'>
             <br />
             <h1>Orphan Care</h1>
-            <p>Tanzania is currently one of the most severely stricken countries with an orphan population of 1.3 million children which continues to grow at an alarming pace. To go through childhood without the protection and care of a parent or guardian is one of the most unimaginably difficult things. Orphan children are often left with no option but to fend for them-selves or be dependent on the generosity of sponsors near and far. Many, however, are left vulnerable to exploitation.</p>
+            <p>Tanzania is currently one of the most severely stricken countries with an orphan population of 1.3 million children which continues to grow at an alarming pace. To go through childhood without the protection and care of a parent or guardian is one of the most unimaginable and difficult 21st century occurrences for a child. Orphan children are often left with no option but to fend for them-selves or to be dependent on the generosity of sponsors near and far however, the majority of orphan children are left exposed and vulnerable to exploitation.</p>
             <h3>Orphan Care</h3>
             <p>Islamic Help's Orphan Sponsorship Scheme supports the most vulnerable of orphans – those with little support, caught in the throes of conflict and instability. We support orphans living in orphanages and those that live with family members or siblings.</p>
             <p>Our orphan care program is continuously growing: Since 2010, the number of orphan children under Islamic Help’s care has grown from 100 to now 518 in different locations of Tanzania. This program has ensured continuity of the children’s education, ensured sufficient nutritional access to the children, proper health care, ensured physical, metal and social growth and also savings for the child and his/her guardian.</p> 
@@ -28,13 +28,17 @@
             <div class='well'>
                 <table>
                     <tr>
-                        <td><img src="images/mariams.png" class="inline" alt="" width="200"></td>
-                        <td>
-                            <h3>Mariaym's Story</h3>
-                            
-                        <p>Mariyam is a 7 year old girl that sadly lost both of her parents before her first birthday. Mariyam now lives with her aunt who does not have any source of income and is financially unstable to provide for Mariyam. Mariyam however remains positive appreciating the little she has. Mariyam aspires to be a doctor one day to help people struggling with illnesses. Mariyam needs our support to follow her dreams and live a normal life. What will you do? </p>
- 
-                        </td> 
+                    <td><img src="images/mariams.png" class="inline" alt="" width="200"></td>
+
+                       <td style="width: 511px; padding-left: 14px;">
+                            <h3>Mariyam's Story</h3>
+
+                            <p>Mariyam is a 7 year old girl that sadly lost both of her parents before her first birthday. Mariyam now lives with her aunt who does not have any source of income and is financially unstable to provide for Mariyam. Mariyam however remains positive appreciating the little she has. Mariyam aspires to be a doctor one day to help people struggling with illnesses. Mariyam needs our support to follow her dreams and live a normal life. What will you do to help? </p>
+
+                        </td>
+
+
+
                     </tr>
                 </table>
             </div>

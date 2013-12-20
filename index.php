@@ -15,23 +15,21 @@
             <div class="flexslider">
                     <ul class="slides">
                         <li>
-                            <a href="eco_village.php"><img src='images/slides/index/slide_1.jpg' alt=''/></a>
+                            <a href="orphans.php"><img src='images/slides/index/slide_1.jpg' alt=''/></a>
                         </li>
                         <li>
-                            <a href="tfc.php"><img src='images/slides/index/slide_2.jpg' alt='' /></a>
+                            <a href="water.php"><img src='images/slides/index/slide_2.jpg' alt='' /></a>
                         </li>
                         <li>
-                            <a href="eco_village.php"><img src='images/slides/index/slide_3.jpg' alt='' /></a>
+                            <a href="economic.php"><img src='images/slides/index/slide_3.jpg' alt='' /></a>
                         </li>
                         <li>
-                            <a href="economic.php"><img src='images/slides/index/slide_4.jpg' alt='' /></a>
+                            <a href="smallhands.php"><img src='images/slides/index/slide_4.jpg' alt='' /></a>
                         </li>
                         <li>
-                            <a href="eco_village.php"><img src='images/slides/index/slide_5.jpg' alt='' /></a>
+                            <a href="eco_mosque.php"><img src='images/slides/index/slide_5.jpg' alt='' /></a>
                         </li>
-                        <li>
-                            <a href="smallhands.php"><img src='images/slides/index/slide_6.jpg' alt='' /></a>
-                        </li>
+
 
                     </ul>
                 </div>
@@ -64,14 +62,14 @@
                 <tr>
                     <td><a href="water.php"><img src='img/water_pic.gif' alt='Tone La Huruma'/></a></td>
                     <td><a href="eco_village.php"><img src='img/eco_village.jpg' alt=" children's village " /></a></td>
-                    <td><a href="environmental.php"><img src='img/trees_for_change.gif' alt='Trees For Change' /></a></td>
+                    <td><a href="tfc.php"><img src='img/trees_for_change.gif' alt='Trees For Change' /></a></td>
                 </tr>
             </table>
         </div><!-- thumbnails -->
         <div class="row">
             <div class="span6">
                 <br />
-                <iframe width="440" height="420" src="//www.youtube.com/embed/videoseries?list=PLF1DKPJf4fT_Htf0_S_cXlaUHCB_ZG50L" frameborder="0" allowfullscreen></iframe>
+                <iframe width="440" height="420" src="//www.youtube.com/embed/YtDVevnHca8?list=PLF1DKPJf4fT_Htf0_S_cXlaUHCB_ZG50L" frameborder="0" allowfullscreen></iframe>
             </div>
             <div class='span3'>
                 <?php include'includes/twitter.php'; ?>

@@ -313,6 +313,7 @@ a:focus {
 
 .span7 {
   width: 540px;
+
 }
 
 .span6 {
@@ -6511,7 +6512,9 @@ h2.tut{
 #infomation img{
     border:2px solid #fff;
     border-radius: 10px;
-}
+
+  }
+
 
 .donate{
     width:150px;
@@ -6555,7 +6558,7 @@ nav ul li {
   display: inline-block;
   margin-right: -4px;
   position: relative;
-  padding: 0px 10px;
+  padding: 0px 7px;
   cursor: pointer;
   -webkit-transition: all 0.8s;
   -moz-transition: all 0.8s;
@@ -6587,6 +6590,7 @@ nav ul li ul li {
   display: block; 
   color: #fff;
   padding:5px;
+
 }
 nav ul li ul li:hover { background: #B3121A; }
 nav ul li:hover ul {
@@ -6604,8 +6608,9 @@ nav ul li ul li:hover ul li{
     display:block;
 }
 nav ul li ul li ul li{
-    top:0px;
+    top:-5px;
     display:none;
+    border-radius: 0px 5px 5px 0px;
      margin-right: 00px;
      position: relative;
      cursor: pointer;
@@ -6618,4 +6623,11 @@ nav ul li ul li ul li{
 }
 .red{
     color:#B3121A;
+}
+
+.black{
+    color:#000;
+}
+.vacancy h2{
+    font-size:30px;
 }

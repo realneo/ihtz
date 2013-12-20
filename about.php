@@ -1,7 +1,6 @@
 <?php include('includes/header.php'); ?>
 <?php include('includes/left_pane.php'); ?>
 
-
 <div class="span9">
     <div id='children'><img src='img/children.gif' alt='iHelp Tanzanians' /></div>
     <div id='giraffe' class='offset4'><img src='img/giraffe_tree.gif' alt='Tanzanian Giraffe' /></div>

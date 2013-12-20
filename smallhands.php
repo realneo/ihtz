@@ -29,6 +29,15 @@
                 <li class="span8">
                 <iframe width="695" height="400" src="//www.youtube.com/embed/tTcgSz2kV8g" frameborder="0" allowfullscreen></iframe>
                 </li>
+                <li>
+                    <hr>
+                    <h2>Download</h2>
+                    <a href="downloads/smallhands_application_form_18122013_en.pdf">Small Hands Registration Form (pdf format)</a>
+                    <p>Once completed, return your application form by email: info@islamichelp.co.tz or send it by post to: Islamic Help,Plot Number 401 Kambarage street, Mikocheni A. Dar Es Salaam.</p>
+
+                </li>
+
+
             </ul>
 
         </div>

@@ -20,7 +20,7 @@
                     </tr>
                     <tr>
                         <td><a href='about.php'>Islamic Help</a></td>
-                        <td><a href='donate.php'>General Donations</a></td>
+                        <td><a href='donate.php'>Donations Price Handles</a></td>
                         <td><a href='volunteer.php'>Volunteer</a></td>
                         <td><a href='water.php'>Water</a></td>
 
