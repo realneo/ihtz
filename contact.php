@@ -18,7 +18,7 @@
                     <tr>
                         <th class="red" width="140">Head Office:</th>
                         <td>
-                            <p>Plot Number 401 Kambarage street ,</p>
+                            <p>Plot Number 401 Kambarage Street ,</p>
                             <p>Mikocheni A. Dar Es Salaam</p>
                             <p>info@islamichelp.co.tz</p>
                             <p>P.O.Box 38005 Dar Es Salaam, Tanzania</p>
@@ -28,7 +28,7 @@
                     <tr>
                         <th class="red">Pangani Office:</th>
                         <td>
-                            <p>Mwera street ,</p>
+                            <p>Mwera Street ,</p>
                             <p>Pangani. Tanga</p>
                             <p>pangani@islamichelp.co.tz</p>
                             <p>+255 689 131 400 / +255 754 371 115.</p>

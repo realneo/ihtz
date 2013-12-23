@@ -71,8 +71,11 @@
                 <br />
                 <iframe width="440" height="420" src="//www.youtube.com/embed/YtDVevnHca8?list=PLF1DKPJf4fT_Htf0_S_cXlaUHCB_ZG50L" frameborder="0" allowfullscreen></iframe>
             </div>
-            <div class='span3'>
-                <?php include'includes/twitter.php'; ?>
+
+            <div>
+                <a class="twitter-timeline" width="236px" height="420px" href="https://twitter.com/ihelptz"  data-widget-id="413932649166536705">@ihelptz</a>
+                <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
             </div>
         </div>
         

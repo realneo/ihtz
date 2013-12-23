@@ -2,55 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/includes/meta_tags.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacancy_01.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacancy_02.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacancy_03.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacancy_04.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacancy_05.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vacancy_06.php" />
       <change type="DELETED" beforePath="C:\wamp\www\ihtz\environmental.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/eco_village.jpg" afterPath="$PROJECT_DIR$/img/eco_village.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slides/index/slide_1.jpg" afterPath="$PROJECT_DIR$/images/slides/index/slide_1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slides/index/slide_2.jpg" afterPath="$PROJECT_DIR$/images/slides/index/slide_2.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slides/index/slide_3.jpg" afterPath="$PROJECT_DIR$/images/slides/index/slide_3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slides/index/slide_4.jpg" afterPath="$PROJECT_DIR$/images/slides/index/slide_4.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/slides/index/slide_5.jpg" afterPath="$PROJECT_DIR$/images/slides/index/slide_5.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/9ea05d6f8aa9d838a974cb98d465410a.cache" afterPath="$PROJECT_DIR$/includes/9ea05d6f8aa9d838a974cb98d465410a.cache" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
+      <change type="DELETED" beforePath="C:\wamp\www\ihtz\to server.zip" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/88d36071e01729d9d7b9c00137476819.cache" afterPath="$PROJECT_DIR$/includes/88d36071e01729d9d7b9c00137476819.cache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cordoba.php" afterPath="$PROJECT_DIR$/cordoba.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/donate.php" afterPath="$PROJECT_DIR$/donate.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/events.php" afterPath="$PROJECT_DIR$/events.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/food.php" afterPath="$PROJECT_DIR$/food.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/footer.php" afterPath="$PROJECT_DIR$/includes/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/header.php" afterPath="$PROJECT_DIR$/includes/header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/left_pane.php" afterPath="$PROJECT_DIR$/includes/left_pane.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/menu.php" afterPath="$PROJECT_DIR$/includes/menu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/orphans.php" afterPath="$PROJECT_DIR$/orphans.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/meta_tags.php" afterPath="$PROJECT_DIR$/includes/meta_tags.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/smallhands.php" afterPath="$PROJECT_DIR$/smallhands.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/somali.php" afterPath="$PROJECT_DIR$/somali.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/tweet_script.js" afterPath="$PROJECT_DIR$/js/tweet_script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vacancies.php" afterPath="$PROJECT_DIR$/vacancies.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tfc.php" afterPath="$PROJECT_DIR$/tfc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/twitter.php" afterPath="$PROJECT_DIR$/includes/twitter.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/volunteer.php" afterPath="$PROJECT_DIR$/volunteer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/water.php" afterPath="$PROJECT_DIR$/water.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ihtz.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387522362245" ignored="false" />
-    <file path="/header.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387357635284" ignored="false" />
+    <file path="/Dummy.txt" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387781865736" ignored="false" />
+    <file path="/header.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387530188201" ignored="false" />
     <file path="$PROJECT_DIR$/../sicklecell/includes/header.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1386667086604" ignored="false" />
     <file path="$PROJECT_DIR$/../sicklecell/contact.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1386667566605" ignored="false" />
-    <file path="/contact.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1386834394314" ignored="false" />
+    <file path="/contact.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387784538292" ignored="false" />
     <file path="$PROJECT_DIR$/../sicklecell/css/layout.css" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1386668262230" ignored="false" />
     <file path="$PROJECT_DIR$/../sicklecell/css/style.css" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1386668352587" ignored="false" />
     <file path="/left_pane.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387360254573" ignored="false" />
-    <file path="/bootstrap.css" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387282598308" ignored="false" />
-    <file path="/index.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387291202064" ignored="false" />
-    <file path="/menu.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387360067244" ignored="false" />
+    <file path="/bootstrap.css" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387799758908" ignored="false" />
+    <file path="/index.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387528493148" ignored="false" />
+    <file path="/menu.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387801124251" ignored="false" />
     <file path="/twitter.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1386680923607" ignored="false" />
     <file path="/about.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387291009169" ignored="false" />
     <file path="/economic.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1386761680011" ignored="false" />
@@ -72,7 +51,9 @@
     <file path="/vacancy_04.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387286380232" ignored="false" />
     <file path="/vacancy_05.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387371663419" ignored="false" />
     <file path="/vacancy_06.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387371669076" ignored="false" />
-    <file path="/meta_tags.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387368399143" ignored="false" />
+    <file path="/meta_tags.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387784140157" ignored="false" />
+    <file path="/volunteer.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387783932854" ignored="false" />
+    <file path="/tfc.php" changelist="6e55f22c-5f99-4fd9-ab46-3840e6e20e20" time="1387799857322" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,10 +73,82 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="vacancies.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="80" column="8" selection-start="3801" selection-end="3801" vertical-scroll-proportion="-51.923077">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tfc.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tfc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="18" selection-start="425" selection-end="425" vertical-scroll-proportion="-7.1923075">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/includes/menu.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="78" selection-start="2066" selection-end="2066" vertical-scroll-proportion="0.43589744">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6651" column="14" selection-start="135532" selection-end="135532" vertical-scroll-proportion="-27.52">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="59" selection-start="231" selection-end="231" vertical-scroll-proportion="-5.230769">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="meta_tags.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/includes/meta_tags.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="-5.230769">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vacancies.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vacancies.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="38" selection-start="1669" selection-end="1669" vertical-scroll-proportion="0.31637716">
+            <state line="49" column="55" selection-start="2166" selection-end="2166" vertical-scroll-proportion="-32.03846">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="volunteer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/volunteer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="11" selection-start="2647" selection-end="2647" vertical-scroll-proportion="-18.576923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="29" selection-start="1697" selection-end="1697" vertical-scroll-proportion="-19.23077">
               <folding />
             </state>
           </provider>
@@ -119,22 +172,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/includes/header.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/includes/menu.php" />
-        <option value="$PROJECT_DIR$/includes/left_pane.php" />
-        <option value="$PROJECT_DIR$/cordoba.php" />
-        <option value="$PROJECT_DIR$/donate.php" />
-        <option value="$PROJECT_DIR$/includes/meta_tags.php" />
-        <option value="$PROJECT_DIR$/vacancy_01.php" />
-        <option value="$PROJECT_DIR$/vacancy_03.php" />
         <option value="$PROJECT_DIR$/vacancy_04.php" />
         <option value="$PROJECT_DIR$/vacancy_02.php" />
         <option value="$PROJECT_DIR$/vacancy_05.php" />
         <option value="$PROJECT_DIR$/vacancy_06.php" />
-        <option value="$PROJECT_DIR$/smallhands.php" />
-        <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/vacancies.php" />
+        <option value="$PROJECT_DIR$/smallhands.php" />
+        <option value="$PROJECT_DIR$/includes/tweets.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/includes/twitter.php" />
+        <option value="$PROJECT_DIR$/includes/header.php" />
+        <option value="$PROJECT_DIR$/volunteer.php" />
+        <option value="$PROJECT_DIR$/includes/meta_tags.php" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/tfc.php" />
+        <option value="$PROJECT_DIR$/includes/menu.php" />
       </list>
     </option>
   </component>
@@ -341,7 +394,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2986536" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30232558" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -417,41 +470,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/cordoba.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="93" selection-start="2254" selection-end="2261" vertical-scroll-proportion="-11.115385" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/left_pane.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="58" selection-start="1671" selection-end="1671" vertical-scroll-proportion="0.4079602" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/donate.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="44" selection-start="689" selection-end="689" vertical-scroll-proportion="-5.3333335" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/includes/meta_tags.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="16" selection-start="752" selection-end="752" vertical-scroll-proportion="-10.461538" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/volunteer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="43" selection-start="406" selection-end="406" vertical-scroll-proportion="-6.5384617" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vacancy_01.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="134" column="25" selection-start="5771" selection-end="5771" vertical-scroll-proportion="0.7201493" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vacancy_02.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="178" column="57" selection-start="8542" selection-end="8542" vertical-scroll-proportion="-11.961538" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vacancy_03.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="104" column="20" selection-start="5782" selection-end="5782" vertical-scroll-proportion="-12.461538" />
@@ -472,29 +490,80 @@
         <state line="81" column="57" selection-start="4071" selection-end="4071" vertical-scroll-proportion="-13.269231" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/includes/proxy.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="43" selection-start="84" selection-end="84" vertical-scroll-proportion="-0.65384614" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/includes/header.php">
+    <entry file="file://$PROJECT_DIR$/includes/twitter.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="804" selection-end="804" vertical-scroll-proportion="-18.961538" />
+        <state line="21" column="0" selection-start="677" selection-end="677" vertical-scroll-proportion="0.43589744" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/smallhands.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="151" selection-start="4496" selection-end="4496" vertical-scroll-proportion="-22.884615" />
+        <state line="41" column="0" selection-start="4592" selection-end="4592" vertical-scroll-proportion="0.80024815" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
+    <entry file="file://$PROJECT_DIR$/includes/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="45" selection-start="961" selection-end="961" vertical-scroll-proportion="-13.076923" />
+        <state line="8" column="59" selection-start="231" selection-end="231" vertical-scroll-proportion="-5.230769">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vacancies.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="38" selection-start="1669" selection-end="1669" vertical-scroll-proportion="0.31637716">
+        <state line="49" column="55" selection-start="2166" selection-end="2166" vertical-scroll-proportion="-32.03846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/meta_tags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="119" selection-end="119" vertical-scroll-proportion="-5.230769">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="29" selection-start="1697" selection-end="1697" vertical-scroll-proportion="-19.23077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/volunteer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="11" selection-start="2647" selection-end="2647" vertical-scroll-proportion="-18.576923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="8" selection-start="3801" selection-end="3801" vertical-scroll-proportion="-51.923077">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6651" column="14" selection-start="135532" selection-end="135532" vertical-scroll-proportion="-27.52">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tfc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="18" selection-start="425" selection-end="425" vertical-scroll-proportion="-7.1923075">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/includes/menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="78" selection-start="2066" selection-end="2066" vertical-scroll-proportion="0.43589744">
           <folding />
         </state>
       </provider>

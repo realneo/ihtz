@@ -6,7 +6,7 @@
 
         <link rel="icon"
               type="image/png"
-              href="http://yoteyote.com/demo/ihelptz/favicon.png"/>
+              href="http://islamichelp.co.tz/favicon.png"/>
 
         <?php include('includes/meta_tags.php'); ?>
 

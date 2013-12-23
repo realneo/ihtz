@@ -11,7 +11,7 @@ if($page == 'index'){
     echo  "
                 <meta name='title' content='Islamic Help Tanzania'>
                 <meta name='topic' content='*'>
-                <meta name='description' content='Islamic Help Tanzania is a UK registered charity with an office in Dar es salaam established in 2007. Islamic Help is determined to make a difference to the lives of those afflicted in poverty and suffering'>
+                <meta name='description' content='Islamic Help Tanzania is a UK registered charity with an office in Dar Es Salaam established in 2007. Islamic Help is determined to make a difference to the lives of those afflicted in poverty and suffering'>
                 <meta name='keywords' content='Projects,How  to get involved,mission possible,sponsor an orphan'>
                 <meta name='author' content='Commmunications Department Tanzania 2011-2013'>
                 <meta name='revisit-after' content='3 days'>

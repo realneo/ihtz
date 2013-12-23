@@ -25,7 +25,7 @@
                                 <li><a href="education.php?page=education">Educational Seminars</a></li>
                             </ul>
                         </li>
-                        <li><a href="environment.php?page=environment">Environmental Sustainability</a>
+                        <li><a href="tfc.php?page=tfc">Environmental Sustainability</a>
                             <ul>
                              <li><a href="tfc.php?page=tfc">Trees For Change</a></li>
                             </ul>

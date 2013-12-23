@@ -6631,3 +6631,24 @@ nav ul li ul li ul li{
 .vacancy h2{
     font-size:30px;
 }
+
+
+.twitter-timeline {
+    margin-top:20px;
+
+}
+
+#tfc_software {
+    zoom:0.75;
+    -moz-transform: scale(0.75);
+    -moz-transform-origin: 0 0;
+    -o-transform: scale(0.75);
+    -o-transform-origin: 0 0;
+    -webkit-transform: scale(0.75);
+    -webkit-transform-origin: 0 0;
+    width: 1260px;
+    height: 1271px;
+    margin-top:40px;
+    overflow-x:hidden;
+
+}

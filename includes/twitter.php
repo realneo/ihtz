@@ -1,5 +1,6 @@
+
 <div id="twitter-ticker">
-    <!-- Twitter container, hidden by CSS and shown if JS is present -->
+   <!-- Twitter container, hidden by CSS and shown if JS is present -->
 
     <div id="top-bar">
         <!-- This contains the title and icon -->

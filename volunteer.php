@@ -25,7 +25,7 @@
                     <p>Volunteering with Islamic Help takes any form that the volunteer wishes it to take – yes, we start by asking about your skills and interests and then try to provide you with the most appropriate of volunteering experiences. Of course, fundraising remains the most popular form of volunteering but there are many other ways in which our volunteers contribute. Many assist with office and administrative support duties, others steward at events that the organisation holds, and others organise events.</p>
                     <h2>Download</h2>
                     <a href="downloads/ihtz_volunteer_registration_form.pdf">Islamic Help Volunteer Registration Form (pdf format)</a>
-                    <p>Once completed, return your application form by email: info@islamichelp.co.tz or send it by post to: Islamic Help,Plot Number 41 Kambarage street, Mikocheni A. Dar Es Salaam.</p>
+                    <p>Once completed, return your application form by email: info@islamichelp.co.tz or send it by post to: Islamic Help,Plot Number 401 Kambarage Street, Mikocheni A. Dar Es Salaam.</p>
 
                     </div>
                     <div class="tab-pane" id="tab2">
